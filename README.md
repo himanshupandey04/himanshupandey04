@@ -104,31 +104,13 @@
 ### 📊 GitHub Analytics
 
 <div align="center">
-  <table border="0" style="border: none; width: 100%;">
-    <tr>
-      <td align="center" width="50%">
-        <a href="https://github.com/himanshupandey04">
-          <img src="https://github-readme-stats.vercel.app/api?username=himanshupandey04&show_icons=true&theme=tokyonight&hide_border=true" height="180" alt="stats graph" />
-        </a>
-      </td>
-      <td align="center" width="50%">
-        <a href="https://github.com/himanshupandey04">
-          <img src="https://github-readme-streak-stats.herokuapp.com/?user=himanshupandey04&theme=tokyonight&hide_border=true" height="180" alt="streak graph" />
-        </a>
-      </td>
-    </tr>
-  </table>
-
+  <img src="https://github-readme-stats.vercel.app/api?username=himanshupandey04&show_icons=true&theme=dark&hide_border=true" height="180" alt="stats graph" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=himanshupandey04&theme=dark&hide_border=true" height="180" alt="streak graph" />
   <br>
-
-  <a href="https://github.com/himanshupandey04">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=himanshupandey04&layout=compact&theme=tokyonight&hide_border=true&langs_count=6" height="140" alt="languages graph" />
-  </a>
-
-  <br><br>
-
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=himanshupandey04&layout=compact&theme=dark&hide_border=true&langs_count=8" height="140" alt="languages graph" />
+  <br>
   <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=himanshupandey04&theme=tokyonight&no-frame=true&row=1&column=7&margin-w=15&margin-h=15" alt="trophy collection" />
+    <img src="https://github-profile-trophy.vercel.app/?username=himanshupandey04&theme=dark&no-frame=true&row=1&column=7&margin-w=15&margin-h=15" alt="trophy collection" />
   </a>
 </div>
 
