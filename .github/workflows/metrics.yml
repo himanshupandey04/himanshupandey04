@@ -1,10 +1,7 @@
 name: Metrics
 on:
-  # Schedule daily updates
   schedule: [{cron: "0 0 * * *"}]
-  # (optional) Run workflow manually
   workflow_dispatch:
-  # (optional) Run workflow when pushing on master/main
   push: {branches: ["master", "main"]}
 jobs:
   github-metrics:
@@ -23,10 +20,8 @@ jobs:
           plugin_isocalendar_duration: half-year
           plugin_languages: yes
           plugin_languages_ignored: html, css
-          plugin_habits: yes
-          plugin_habits_from: 200
-          plugin_habits_days: 14
-          plugin_habits_facts: yes
-          plugin_habits_charts: yes
+          # Removed habits plugin as it was causing "Unexpected error" due to insufficient public events
+          plugin_achievements: yes
+          plugin_achievements_display: compact
           plugin_stars: yes
           plugin_stars_limit: 4

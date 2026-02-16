@@ -105,17 +105,23 @@
 
 <div align="center">
   <!-- Detailed Isometric & Habits Metrics (Generated Daily) -->
-  <img src="https://raw.githubusercontent.com/himanshupandey04/himanshupandey04/main/github-metrics.svg" width="100%" alt="Detailed Metrics (Generating... please wait for Action to run)" />
+  <a href="https://github.com/himanshupandey04?tab=repositories">
+    <img src="https://raw.githubusercontent.com/himanshupandey04/himanshupandey04/main/github-metrics.svg" width="100%" alt="Detailed Metrics (Generating... please wait for Action to run)" />
+  </a>
   
   <br><br>
 
   <!-- Animated Contribution Graph (Rolling Window) -->
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=himanshupandey04&theme=tokyo-night&bg_color=0D1117&hide_border=true" width="100%" alt="Activity Graph" />
+  <a href="https://github.com/himanshupandey04">
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=himanshupandey04&theme=tokyo-night&bg_color=0D1117&hide_border=true" width="100%" alt="Activity Graph" />
+  </a>
 
   <br>
 
   <!-- Top Languages (Reliable) -->
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=himanshupandey04&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" height="150" alt="Top Languages" />
+  <a href="https://github.com/himanshupandey04?tab=repositories">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=himanshupandey04&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" height="150" alt="Top Languages" />
+  </a>
 </div>
 
 <br>
