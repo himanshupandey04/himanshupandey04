@@ -48,41 +48,40 @@
 <h3>:: CORE_ARSENAL ::</h3>
 <table border="0" width="100%">
 <tr>
-<td width="60" align="center"><img src="https://raw.githubusercontent.com/himanshupandey04/himanshupandey04/main/assets/animated_icons/coding.gif" width="50" /></td>
+<td width="60" align="center"><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Laptop.png" width="50" /></td>
 <td>
-<img src="https://raw.githubusercontent.com/himanshupandey04/himanshupandey04/main/assets/icons/python.svg" height="25" />
-<img src="https://raw.githubusercontent.com/himanshupandey04/himanshupandey04/main/assets/icons/javascript.svg" height="25" />
-<img src="https://raw.githubusercontent.com/himanshupandey04/himanshupandey04/main/assets/icons/html5.svg" height="25" />
-<img src="https://raw.githubusercontent.com/himanshupandey04/himanshupandey04/main/assets/icons/css3.svg" height="25" />
+<a href="https://skillicons.dev">
+<img src="https://skillicons.dev/icons?i=python,js,html,css&theme=dark" />
+</a>
 </td>
 </tr>
 <tr>
-<td width="60" align="center"><img src="https://raw.githubusercontent.com/himanshupandey04/himanshupandey04/main/assets/animated_icons/data.gif" width="50" /></td>
+<td width="60" align="center"><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Bar%20Chart.png" width="50" /></td>
 <td>
-<img src="https://raw.githubusercontent.com/himanshupandey04/himanshupandey04/main/assets/icons/pandas.svg" height="25" />
-<img src="https://raw.githubusercontent.com/himanshupandey04/himanshupandey04/main/assets/icons/numpy.svg" height="25" />
-<img src="https://raw.githubusercontent.com/himanshupandey04/himanshupandey04/main/assets/icons/powerbi.svg" height="25" />
-<img src="https://raw.githubusercontent.com/himanshupandey04/himanshupandey04/main/assets/icons/tableau.svg" height="25" />
-<img src="https://raw.githubusercontent.com/himanshupandey04/himanshupandey04/main/assets/icons/excel.svg" height="25" />
+<a href="https://skillicons.dev">
+<img src="https://skillicons.dev/icons?i=pandas,numpy&theme=dark" />
+</a>
+<!-- Fallback badges for PowerBI/Tableau -->
+<img src="https://img.shields.io/badge/Power_BI-F2C811?style=flat&logo=powerbi&logoColor=black" height="48" />
+<img src="https://img.shields.io/badge/Tableau-E97627?style=flat&logo=tableau&logoColor=white" height="48" />
+<img src="https://img.shields.io/badge/Excel-217346?style=flat&logo=microsoft-excel&logoColor=white" height="48" />
 </td>
 </tr>
 <tr>
-<td width="60" align="center"><img src="https://raw.githubusercontent.com/himanshupandey04/himanshupandey04/main/assets/animated_icons/brain.gif" width="50" /></td>
+<td width="60" align="center"><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People/Brain.png" width="50" /></td>
 <td>
-<img src="https://raw.githubusercontent.com/himanshupandey04/himanshupandey04/main/assets/icons/tensorflow.svg" height="25" />
-<img src="https://raw.githubusercontent.com/himanshupandey04/himanshupandey04/main/assets/icons/pytorch.svg" height="25" />
-<img src="https://raw.githubusercontent.com/himanshupandey04/himanshupandey04/main/assets/icons/scikit_learn.svg" height="25" />
-<img src="https://raw.githubusercontent.com/himanshupandey04/himanshupandey04/main/assets/icons/datascience.svg" height="25" />
+<a href="https://skillicons.dev">
+<img src="https://skillicons.dev/icons?i=tensorflow,pytorch,sklearn&theme=dark" />
+</a>
+<img src="https://img.shields.io/badge/Data_Science-Science?style=flat&logo=google-colab&logoColor=white" height="48" />
 </td>
 </tr>
 <tr>
-<td width="60" align="center"><img src="https://raw.githubusercontent.com/himanshupandey04/himanshupandey04/main/assets/animated_icons/server.gif" width="50" /></td>
+<td width="60" align="center"><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Toolbox.png" width="50" /></td>
 <td>
-<img src="https://raw.githubusercontent.com/himanshupandey04/himanshupandey04/main/assets/icons/mysql.svg" height="25" />
-<img src="https://raw.githubusercontent.com/himanshupandey04/himanshupandey04/main/assets/icons/postgresql.svg" height="25" />
-<img src="https://raw.githubusercontent.com/himanshupandey04/himanshupandey04/main/assets/icons/mongodb.svg" height="25" />
-<img src="https://raw.githubusercontent.com/himanshupandey04/himanshupandey04/main/assets/icons/git.svg" height="25" />
-<img src="https://raw.githubusercontent.com/himanshupandey04/himanshupandey04/main/assets/icons/github.svg" height="25" />
+<a href="https://skillicons.dev">
+<img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb,git,github&theme=dark" />
+</a>
 </td>
 </tr>
 </table>
