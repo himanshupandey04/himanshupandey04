@@ -157,7 +157,7 @@
 ### 🐍 Daily Activity & Contribution Game
 
 <div align="center">
-<img src="https://raw.githubusercontent.com/himanshupandey04/himanshupandey04/output/github-contribution-grid-snake.svg" width="100%" />
+<img src="https://raw.githubusercontent.com/himanshupandey04/himanshupandey04/main/dist/github-contribution-grid-snake-dark.svg" width="100%" />
 </div>
 
 <br>
