@@ -22,12 +22,37 @@
 
 ### 👨‍💻 About Me
 
-I am a passionate **Data Analyst** and **Full Stack Developer** with a focus on building intelligent, data-driven applications. My expertise lies in bridging the gap between advanced **Data Analytics** and scalable **Web Architectures**. I thrive on solving complex problems through code and deriving actionable insights from data.
-
-- 🔭 I’m currently working on **AI-driven Traffic Enforcement Systems**.
-- 🌱 I’m currently learning **Advanced NLP & Computer Vision**.
-- 👯 I’m looking to collaborate on **Open Source Data Science Projects**.
-- 💬 Ask me about **Python, React, and Machine Learning**.
+<table border="0" width="100%">
+  <tr>
+    <td width="30%" align="center" valign="center">
+      <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People/Technologist.png" width="180" />
+    </td>
+    <td width="70%" valign="top">
+      <p>
+        I am a versatile <b>Data Analyst</b> and <b>Full Stack Developer</b> driven by the power of data to transform businesses.
+        I specialize in building <b>end-to-end data pipelines</b>, designing <b>scalable web architectures</b>, and training <b>intelligent ML models</b>.
+      </p>
+      <table>
+        <tr>
+           <td width="40">🔭</td>
+           <td><b>Working on:</b> Intelligent Traffic Systems & Computer Vision</td>
+        </tr>
+         <tr>
+           <td width="40">🌱</td>
+           <td><b>Learning:</b> Advanced MLOps, AWS Cloud, & System Design</td>
+        </tr>
+         <tr>
+           <td width="40">🤝</td>
+           <td><b>Open for:</b> Collaborations on AI/ML & Web Dev Projects</td>
+        </tr>
+         <tr>
+           <td width="40">💬</td>
+           <td><b>Ask me about:</b> Python, React, SQL, & Automation</td>
+        </tr>
+      </table>
+    </td>
+  </tr>
+</table>
 
 <br>
 <hr>
