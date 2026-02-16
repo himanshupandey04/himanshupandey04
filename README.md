@@ -96,41 +96,18 @@
 <br>
 
 <div align="center">
-    <h3>:: DEPLOYED_MODULES (PROJECTS) ::</h3>
+    <h3>:: DEPLOYED_MODULES (ACTIVE_REPOS) ::</h3>
 </div>
 
-<table border="0" width="100%">
-    <tr>
-        <td width="50%">
-            <b>🔹 Real-Time Doc Validator</b><br>
-            <em>Auto-Traffic Enforcement System</em><br>
-            Uses Computer Vision & Flask to relay e-challans instantly.<br>
-            <img src="assets/icons/python.svg" height="15" /> <img src="assets/icons/html5.svg" height="15" />
-        </td>
-        <td width="50%">
-            <b>🔹 Blood Donation Manager</b><br>
-            <em>Life-Saving Inventory System</em><br>
-            Full-stack MongoDB solution for real-time donor tracking.<br>
-            <img src="assets/icons/mongodb.svg" height="15" /> <img src="assets/icons/javascript.svg" height="15" />
-        </td>
-    </tr>
-    <tr>
-        <td width="50%">
-            <br>
-            <b>🔹 Fashion Discount AI</b><br>
-            <em>Predictive Pricing Model</em><br>
-            Regression algorithms to optimize retail strategy.<br>
-            <img src="assets/icons/scikit_learn.svg" height="15" /> <img src="assets/icons/pandas.svg" height="15" />
-        </td>
-        <td width="50%">
-            <br>
-            <b>🔹 Power BI Sales Dashboard</b><br>
-            <em>Financial Intelligence</em><br>
-            Automated KPI tracking and trend analysis.<br>
-            <img src="assets/icons/powerbi.svg" height="15" /> <img src="assets/icons/excel.svg" height="15" />
-        </td>
-    </tr>
-</table>
+<!-- START_PROJECTS -->
+
+| **PROJECT MODULE** | **DESCRIPTION** | **TECH STACK** | **LAST UPDATE** |
+| :--- | :--- | :--- | :--- |
+| [Blood-Donation-Management](https://github.com/himanshupandey04/Blood-Donation-Management) | Full-stack MongoDB Inventory System for real-time donor t... | ![HTML](https://img.shields.io/badge/-HTML-black?style=flat-square&logo=html5&logoColor=white) | Feb 16, 2026 |
+| [Real-Time-Doc-Validator-Instant-E-Challan-Relay](https://github.com/himanshupandey04/Real-Time-Doc-Validator-Instant-E-Challan-Relay) | Auto-Traffic Enforcement System using Computer Vision & F... | ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript&logoColor=white) | Feb 16, 2026 |
+| [Fashion-Discount-Prediction](https://github.com/himanshupandey04/Fashion-Discount-Prediction) | AI/ML Regression model for optimizing retail pricing stra... | ![Jupyter Notebook](https://img.shields.io/badge/-Jupyter Notebook-black?style=flat-square&logo=jupyter&logoColor=white) | Feb 16, 2026 |
+
+<!-- END_PROJECTS -->
 
 <br>
 
