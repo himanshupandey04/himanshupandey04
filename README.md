@@ -1,10 +1,10 @@
 <!--
-    HIMANSHU KUMAR PANDEY // DATA SCIENTIST PROFILE
+    HIMANSHU KUMAR PANDEY // DATA ANALYST PROFILE
     DESIGN: Modern Professional Portfolio
 -->
 
 <div align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Himanshu%20Kumar%20Pandey&fontSize=70&fontAlignY=35&desc=Data%20Scientist%20%7C%20AI%20Engineer%20%7C%20Full%20Stack%20Developer&descAlignY=60&descAlign=50" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Himanshu%20Kumar%20Pandey&fontSize=70&fontAlignY=35&desc=Data%20Analyst%20%7C%20Full%20Stack%20Developer&descAlignY=60&descAlign=50" width="100%" />
 
 <a href="https://git.io/typing-svg">
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=2094F3&center=true&vCenter=true&width=500&lines=Building+Intelligent+Systems;Analyzing+Complex+Data;Automating+Workflows;Transforming+Ideas+into+Code" alt="Typing SVG" />
@@ -22,7 +22,7 @@
 
 ### 👨‍💻 About Me
 
-I am a passionate **Data Scientist** and **Full Stack Developer** with a focus on building intelligent, data-driven applications. My expertise lies in bridging the gap between advanced **Machine Learning** models and scalable **Web Architectures**. I thrive on solving complex problems through code and deriving actionable insights from data.
+I am a passionate **Data Analyst** and **Full Stack Developer** with a focus on building intelligent, data-driven applications. My expertise lies in bridging the gap between advanced **Data Analytics** and scalable **Web Architectures**. I thrive on solving complex problems through code and deriving actionable insights from data.
 
 - 🔭 I’m currently working on **AI-driven Traffic Enforcement Systems**.
 - 🌱 I’m currently learning **Advanced NLP & Computer Vision**.
