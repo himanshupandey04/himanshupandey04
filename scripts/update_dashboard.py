@@ -124,58 +124,60 @@ def generate_language_bar(languages):
     return bar_html
 
 def generate_markdown(projects):
-    html_output = '<div align="center">\n'
+    html_output = '<div align="center">\n<table width="100%" style="border-collapse: collapse; border: none;">\n'
     
-    for p in projects:
-        name = p['name']
-        url = p['html_url']
-        desc = p['description'] if p['description'] else "System module active."
-        if len(desc) > 120:
-            desc = desc[:117] + "..."
-            
-        langs = get_repo_languages(name)
-        if not langs and 'languages_cache' in p:
-             langs = p['languages_cache']
-             
-        lang_bar = generate_language_bar(langs)
-        
-        # Grid Item (Card) - Designed to look like a premium software module
-        html_output += f'''
-<table width="100%" style="border-collapse: collapse; background-color: #0d1117; border: 1px solid #30363d; border-radius: 10px; margin-bottom: 20px; overflow: hidden;">
-  <tr>
-    <td style="padding: 2px; background: linear-gradient(90deg, #1f6feb 0%, #8957e5 100%);"></td>
-  </tr>
-  <tr>
-    <td style="padding: 20px;">
-      <table width="100%" style="border-collapse: collapse;">
+    # Process projects in pairs for a 2-column grid
+    for i in range(0, len(projects), 2):
+        html_output += '  <tr>\n'
+        for j in range(2):
+            if i + j < len(projects):
+                p = projects[i + j]
+                name = p['name']
+                url = p['html_url']
+                desc = p['description'] if p['description'] else "System module active."
+                if len(desc) > 85:
+                    desc = desc[:82] + "..."
+                    
+                langs = get_repo_languages(name)
+                if not langs and 'languages_cache' in p:
+                     langs = p['languages_cache']
+                     
+                lang_bar = generate_language_bar(langs)
+                
+                # Each card is a table for layout control in GitHub MarkDown
+                html_output += f'''
+    <td width="50%" style="padding: 10px; border: none;" valign="top">
+      <table width="100%" style="border-collapse: collapse; background-color: #0d1117; border: 1px solid #30363d; border-radius: 12px; overflow: hidden; min-height: 200px;">
+        <tr><td style="padding: 2px; background: linear-gradient(90deg, #1f6feb 0%, #8957e5 100%);"></td></tr>
         <tr>
-          <td valign="top" align="left">
+          <td style="padding: 20px; vertical-align: top;">
             <a href="{url}" style="text-decoration: none;">
-              <h3 style="margin: 0; color: #58a6ff; font-family: sans-serif;">
+              <h3 style="margin: 0; color: #58a6ff; font-family: -apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif;">
                 <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Package.png" height="22" style="vertical-align: middle;" />
                 &nbsp;{name}
               </h3>
             </a>
-            <p style="color: #8b949e; font-size: 14px; margin: 10px 0; font-family: sans-serif; line-height: 1.5;">
+            <p style="color: #8b949e; font-size: 13px; margin: 12px 0; line-height: 1.4; height: 38px; overflow: hidden;">
               {desc}
             </p>
             <div style="margin-top: 15px;">
               {lang_bar}
             </div>
-          </td>
-          <td width="120" align="right" valign="middle">
-            <a href="{url}">
-              <img src="https://img.shields.io/badge/RUN_MODULE-238636?style=for-the-badge&logo=github&logoColor=white" height="32" />
-            </a>
+            <div align="right" style="margin-top: 20px;">
+              <a href="{url}">
+                <img src="https://img.shields.io/badge/INITIALIZE-1f6feb?style=for-the-badge&logo=github&logoColor=white" height="28" />
+              </a>
+            </div>
           </td>
         </tr>
       </table>
     </td>
-  </tr>
-</table>
 '''
+            else:
+                html_output += '    <td width="50%" style="padding: 10px; border: none;"></td>\n'
+        html_output += '  </tr>\n'
         
-    html_output += '</div>'
+    html_output += '</table>\n</div>'
     return html_output
 
 def update_readme():
