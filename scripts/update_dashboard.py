@@ -131,10 +131,10 @@ def generate_markdown(projects):
     
     # Header Row with Animated Icons
     html_output += '<thead style="background-color: #161b22; border-bottom: 1px solid #30363d;"><tr>'
-    html_output += f'<th width="20%" align="left" style="padding: 10px;"><img src="{base_asset_url}/coding.gif" height="20" />&nbsp; MODULE</th>'
-    html_output += f'<th width="45%" align="left" style="padding: 10px;"><img src="{base_asset_url}/brain.gif" height="20" />&nbsp; INTELLIGENCE / DESC</th>'
-    html_output += f'<th width="25%" align="left" style="padding: 10px;"><img src="{base_asset_url}/data.gif" height="20" />&nbsp; TECH_STACK</th>'
-    html_output += f'<th width="10%" align="center" style="padding: 10px;"><img src="{base_asset_url}/server.gif" height="20" />&nbsp; ACCESS</th>'
+    html_output += f'<th width="20%" align="left" style="padding: 10px;"><img src="{base_asset_url}/coding.gif" height="25" style="vertical-align: middle;" />&nbsp; PROJECT MODULE</th>'
+    html_output += f'<th width="45%" align="left" style="padding: 10px;"><img src="{base_asset_url}/brain.gif" height="25" style="vertical-align: middle;" />&nbsp; INTELLIGENCE / DESC</th>'
+    html_output += f'<th width="25%" align="left" style="padding: 10px;"><img src="{base_asset_url}/data.gif" height="25" style="vertical-align: middle;" />&nbsp; COMPOSITION (100%)</th>'
+    html_output += f'<th width="10%" align="center" style="padding: 10px;"><img src="{base_asset_url}/server.gif" height="25" style="vertical-align: middle;" />&nbsp; ACCESS</th>'
     html_output += '</tr></thead>\n<tbody>\n'
     
     for p in projects:
