@@ -97,36 +97,32 @@
 </table>
 <br>
 <div align="center">
-<h3>:: DEPLOYED_MODULES (ACTIVE_REPOS) ::</h3>
+<br>
+<img src="https://raw.githubusercontent.com/himanshupandey04/himanshupandey04/main/assets/animated_icons/line.gif" width="100%" />
+<h3>🚧 ACTIVE_SYSTEM_MODULES</h3>
 </div>
 <!-- START_PROJECTS -->
 
-<table width="100%" border="0" cellspacing="0" cellpadding="5">
-<thead style="background-color: #161b22;"><tr><th width="20%">🚀 PROJECT MODULE</th><th width="45%">📋 INTELLIGENCE / DESC</th><th width="25%">📊 COMPOSITION (100%)</th><th width="10%">⚡ ACCESS</th></tr></thead>
+<table width="100%" style="border-collapse: collapse; background-color: #0d1117; border: 1px solid #30363d; color: #e6edf3;">
+<thead style="background-color: #161b22; border-bottom: 1px solid #30363d;"><tr><th width="20%" align="left" style="padding: 10px;"><img src="https://raw.githubusercontent.com/himanshupandey04/himanshupandey04/main/assets/animated_icons/coding.gif" height="20" />&nbsp; MODULE</th><th width="45%" align="left" style="padding: 10px;"><img src="https://raw.githubusercontent.com/himanshupandey04/himanshupandey04/main/assets/animated_icons/brain.gif" height="20" />&nbsp; INTELLIGENCE / DESC</th><th width="25%" align="left" style="padding: 10px;"><img src="https://raw.githubusercontent.com/himanshupandey04/himanshupandey04/main/assets/animated_icons/data.gif" height="20" />&nbsp; TECH_STACK</th><th width="10%" align="center" style="padding: 10px;"><img src="https://raw.githubusercontent.com/himanshupandey04/himanshupandey04/main/assets/animated_icons/server.gif" height="20" />&nbsp; ACCESS</th></tr></thead>
 <tbody>
-<tr>
-<td valign="top"><a href="https://github.com/himanshupandey04/Real-Time-Doc-Validator-Instant-E-Challan-Relay"><b>Real-Time-Doc-Validator-Instant-E-Challan-Relay</b></a></td>
-<td valign="top">Auto-Traffic Enforcement System using Computer Vision & Flask.</td>
-<td valign="top"><img src="https://img.shields.io/badge/Python-80.0%25-3776AB?style=flat-square" /> <img src="https://img.shields.io/badge/HTML-15.0%25-E34F26?style=flat-square" /> <img src="https://img.shields.io/badge/CSS-5.0%25-1572B6?style=flat-square" /> </td>
-<td valign="top" align="center"><a href="https://github.com/himanshupandey04/Real-Time-Doc-Validator-Instant-E-Challan-Relay"><img src="https://img.shields.io/badge/OPEN-SYSTEM-success?style=for-the-badge&logo=github" height="20" /></a></td>
+<tr style="border-bottom: 1px solid #21262d;">
+<td valign="top" style="padding: 10px;"><a href="https://github.com/himanshupandey04/Blood-Donation-Management" style="color: #58a6ff; text-decoration: none;"><b>Blood-Donation-Management</b></a></td>
+<td valign="top" style="padding: 10px;">Full-stack MongoDB Inventory System for real-time donor tracking.</td>
+<td valign="top" style="padding: 10px;"><img src="https://img.shields.io/badge/HTML-84.5%25-E34F26?style=flat-square" /> <img src="https://img.shields.io/badge/Python-12.2%25-3776AB?style=flat-square" /> <img src="https://img.shields.io/badge/CSS-2.2%25-1572B6?style=flat-square" /> <img src="https://img.shields.io/badge/JavaScript-1.1%25-F7DF1E?style=flat-square" /> </td>
+<td valign="top" align="center" style="padding: 10px;"><a href="https://github.com/himanshupandey04/Blood-Donation-Management"><img src="https://img.shields.io/badge/INITIALIZE-1f6feb?style=for-the-badge&logo=github&logoColor=white" height="25" /></a></td>
 </tr>
-<tr>
-<td valign="top"><a href="https://github.com/himanshupandey04/Blood-Donation-Management"><b>Blood-Donation-Management</b></a></td>
-<td valign="top">Full-stack MongoDB Inventory System for real-time donor tracking.</td>
-<td valign="top"><img src="https://img.shields.io/badge/HTML-80.0%25-E34F26?style=flat-square" /> <img src="https://img.shields.io/badge/JavaScript-15.0%25-F7DF1E?style=flat-square" /> <img src="https://img.shields.io/badge/CSS-5.0%25-1572B6?style=flat-square" /> </td>
-<td valign="top" align="center"><a href="https://github.com/himanshupandey04/Blood-Donation-Management"><img src="https://img.shields.io/badge/OPEN-SYSTEM-success?style=for-the-badge&logo=github" height="20" /></a></td>
+<tr style="border-bottom: 1px solid #21262d;">
+<td valign="top" style="padding: 10px;"><a href="https://github.com/himanshupandey04/Real-Time-Doc-Validator-Instant-E-Challan-Relay" style="color: #58a6ff; text-decoration: none;"><b>Real-Time-Doc-Validator-Instant-E-Challan-Relay</b></a></td>
+<td valign="top" style="padding: 10px;">Auto-Traffic Enforcement System using Computer Vision & Flask.</td>
+<td valign="top" style="padding: 10px;"><img src="https://img.shields.io/badge/JavaScript-70.7%25-F7DF1E?style=flat-square" /> <img src="https://img.shields.io/badge/HTML-15.7%25-E34F26?style=flat-square" /> <img src="https://img.shields.io/badge/Python-7.6%25-3776AB?style=flat-square" /> <img src="https://img.shields.io/badge/CSS-5.7%25-1572B6?style=flat-square" /> </td>
+<td valign="top" align="center" style="padding: 10px;"><a href="https://github.com/himanshupandey04/Real-Time-Doc-Validator-Instant-E-Challan-Relay"><img src="https://img.shields.io/badge/INITIALIZE-1f6feb?style=for-the-badge&logo=github&logoColor=white" height="25" /></a></td>
 </tr>
-<tr>
-<td valign="top"><a href="https://github.com/himanshupandey04/Fashion-Discount-Prediction"><b>Fashion-Discount-Prediction</b></a></td>
-<td valign="top">AI/ML Regression model for optimizing retail pricing strategies.</td>
-<td valign="top"><img src="https://img.shields.io/badge/Jupyter Notebook-100.0%25-F37626?style=flat-square" /> </td>
-<td valign="top" align="center"><a href="https://github.com/himanshupandey04/Fashion-Discount-Prediction"><img src="https://img.shields.io/badge/OPEN-SYSTEM-success?style=for-the-badge&logo=github" height="20" /></a></td>
-</tr>
-<tr>
-<td valign="top"><a href="https://github.com/himanshupandey04/Parking-Ticket-Issuing-System-using-OCR"><b>Parking-Ticket-Issuing-System-using-OCR</b></a></td>
-<td valign="top">Automated parking ticket solution using OCR-based license plate detection.</td>
-<td valign="top"><img src="https://img.shields.io/badge/Python-90.0%25-3776AB?style=flat-square" /> <img src="https://img.shields.io/badge/C++-10.0%25-00599C?style=flat-square" /> </td>
-<td valign="top" align="center"><a href="https://github.com/himanshupandey04/Parking-Ticket-Issuing-System-using-OCR"><img src="https://img.shields.io/badge/OPEN-SYSTEM-success?style=for-the-badge&logo=github" height="20" /></a></td>
+<tr style="border-bottom: 1px solid #21262d;">
+<td valign="top" style="padding: 10px;"><a href="https://github.com/himanshupandey04/Fashion-Discount-Prediction" style="color: #58a6ff; text-decoration: none;"><b>Fashion-Discount-Prediction</b></a></td>
+<td valign="top" style="padding: 10px;">AI/ML Regression model for optimizing retail pricing strategies.</td>
+<td valign="top" style="padding: 10px;"><img src="https://img.shields.io/badge/Jupyter Notebook-99.7%25-F37626?style=flat-square" /> </td>
+<td valign="top" align="center" style="padding: 10px;"><a href="https://github.com/himanshupandey04/Fashion-Discount-Prediction"><img src="https://img.shields.io/badge/INITIALIZE-1f6feb?style=for-the-badge&logo=github&logoColor=white" height="25" /></a></td>
 </tr>
 </tbody></table>
 <!-- END_PROJECTS -->

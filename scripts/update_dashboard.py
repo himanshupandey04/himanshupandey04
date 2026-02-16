@@ -124,13 +124,17 @@ def generate_language_bar(languages):
     return bar_html
 
 def generate_markdown(projects):
-    # Professional HTML Container Table
-    html_output = '<table width="100%" border="0" cellspacing="0" cellpadding="5">\n'
-    html_output += '<thead style="background-color: #161b22;"><tr>'
-    html_output += '<th width="20%">🚀 PROJECT MODULE</th>'
-    html_output += '<th width="45%">📋 INTELLIGENCE / DESC</th>'
-    html_output += '<th width="25%">📊 COMPOSITION (100%)</th>'
-    html_output += '<th width="10%">⚡ ACCESS</th>'
+    # Professional HTML Container Table with "Terminal" aesthetic
+    base_asset_url = "https://raw.githubusercontent.com/himanshupandey04/himanshupandey04/main/assets/animated_icons"
+    
+    html_output = '<table width="100%" style="border-collapse: collapse; background-color: #0d1117; border: 1px solid #30363d; color: #e6edf3;">\n'
+    
+    # Header Row with Animated Icons
+    html_output += '<thead style="background-color: #161b22; border-bottom: 1px solid #30363d;"><tr>'
+    html_output += f'<th width="20%" align="left" style="padding: 10px;"><img src="{base_asset_url}/coding.gif" height="20" />&nbsp; MODULE</th>'
+    html_output += f'<th width="45%" align="left" style="padding: 10px;"><img src="{base_asset_url}/brain.gif" height="20" />&nbsp; INTELLIGENCE / DESC</th>'
+    html_output += f'<th width="25%" align="left" style="padding: 10px;"><img src="{base_asset_url}/data.gif" height="20" />&nbsp; TECH_STACK</th>'
+    html_output += f'<th width="10%" align="center" style="padding: 10px;"><img src="{base_asset_url}/server.gif" height="20" />&nbsp; ACCESS</th>'
     html_output += '</tr></thead>\n<tbody>\n'
     
     for p in projects:
@@ -146,11 +150,11 @@ def generate_markdown(projects):
              
         lang_bar = generate_language_bar(langs)
         
-        html_output += '<tr>\n'
-        html_output += f'<td valign="top"><a href="{url}"><b>{name}</b></a></td>\n'
-        html_output += f'<td valign="top">{desc}</td>\n'
-        html_output += f'<td valign="top">{lang_bar}</td>\n'
-        html_output += f'<td valign="top" align="center"><a href="{url}"><img src="https://img.shields.io/badge/OPEN-SYSTEM-success?style=for-the-badge&logo=github" height="20" /></a></td>\n'
+        html_output += '<tr style="border-bottom: 1px solid #21262d;">\n'
+        html_output += f'<td valign="top" style="padding: 10px;"><a href="{url}" style="color: #58a6ff; text-decoration: none;"><b>{name}</b></a></td>\n'
+        html_output += f'<td valign="top" style="padding: 10px;">{desc}</td>\n'
+        html_output += f'<td valign="top" style="padding: 10px;">{lang_bar}</td>\n'
+        html_output += f'<td valign="top" align="center" style="padding: 10px;"><a href="{url}"><img src="https://img.shields.io/badge/INITIALIZE-1f6feb?style=for-the-badge&logo=github&logoColor=white" height="25" /></a></td>\n'
         html_output += '</tr>\n'
         
     html_output += '</tbody></table>'
