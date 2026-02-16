@@ -29,28 +29,61 @@
             <!-- Animated Section Header: ARSENAL -->
             <img src="https://readme-typing-svg.herokuapp.com?font=VT323&weight=700&size=25&pause=1000&color=FFFFFF&background=00000000&width=400&lines=%3E_LOADING_WEAPONRY...;%3E_ARSENAL_DEPLOYED." alt="Arsenal Header" />
             <br>
-            <!-- SkillIcons (Vibrant & Clean) -->
-            <p align="left">
-                <a href="https://skillicons.dev">
-                    <img src="https://skillicons.dev/icons?i=py,js,html,css,pandas,numpy,sklearn,tensorflow,pytorch,mysql,postgres,mongodb,powerbi,tableau,excel,git,github,vscode&perline=6&theme=dark" />
-                </a>
-            </p>
-        </td>
-        <td width="40%" align="center" valign="middle">
-            <!-- MORT SECTION: Animated GIF -->
-            <div align="center">
-                <img src="https://media1.tenor.com/m/m1C1Hw9V_4wAAAAC/madagascar-mort.gif" width="220" alt="Mort Hacking" style="border-radius: 15px; border: 2px solid #00FF00;" />
-                <br>
-                <br>
-                <code>"I like to commit it, commit it."</code>
-            </div>
-        </td>
-    </tr>
-</table>
+            
+            <table border="0">
+                <!-- Languages -->
+                <tr>
+                    <td width="50" align="center">
+                        <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="45" height="45" alt="Coding" />
+                    </td>
+                    <td>
+                        <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+                        <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+                        <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+                        <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+                    </td>
+                </tr>
+                <!-- Data Intelligence -->
+                <tr>
+                    <td width="50" align="center">
+                        <img src="https://media.giphy.com/media/fsEaZldGs8jqOwTkfJ/giphy.gif" width="45" height="45" alt="Data" />
+                    </td>
+                    <td>
+                        <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
+                        <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" />
+                        <img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" />
+                        <img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white" />
+                        <img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white" />
+                    </td>
+                </tr>
+                <!-- AI & ML -->
+                <tr>
+                    <td width="50" align="center">
+                        <img src="https://media.giphy.com/media/d9QiBcfemZDzwluMaq/giphy.gif" width="45" height="45" alt="AI" />
+                    </td>
+                    <td>
+                        <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" />
+                        <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" />
+                        <img src="https://img.shields.io/badge/Scikit_Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" />
+                        <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white" />
+                    </td>
+                </tr>
+                <!-- Infrastructure -->
+                <tr>
+                    <td width="50" align="center">
+                        <img src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" width="45" height="45" alt="DB" />
+                    </td>
+                    <td>
+                        <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
+                        <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" />
+                        <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" />
+                        <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+                        <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+                    </td>
+                </tr>
+            </table>
 
-<br />
-
-<!-- Animated Section Header: NETWORK TRAFFIC -->
+            <!-- Animated Section Header: NETWORK TRAFFIC -->
 <div align="center">
     <img src="https://readme-typing-svg.herokuapp.com?font=VT323&weight=700&size=30&pause=1000&color=FFFFFF&background=00000000&center=true&vCenter=true&width=500&lines=%3E_ANALYZING_NETWORK_TRAFFIC...;%3E_PACKETS_INTERCEPTED." alt="Stats Header" />
 </div>
