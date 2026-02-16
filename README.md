@@ -105,7 +105,7 @@
 
 <div align="center">
   <!-- Detailed Isometric & Habits Metrics (Generated Daily) -->
-  <img src="https://raw.githubusercontent.com/himanshupandey04/himanshupandey04/master/github-metrics.svg" width="100%" alt="Detailed Metrics (Generating... please wait for Action to run)" />
+  <img src="https://raw.githubusercontent.com/himanshupandey04/himanshupandey04/main/github-metrics.svg" width="100%" alt="Detailed Metrics (Generating... please wait for Action to run)" />
   
   <br><br>
 
@@ -114,10 +114,8 @@
 
   <br>
 
-  <!-- Trophy Collection (Gamification) -->
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=himanshupandey04&theme=tokyonight&no-frame=true&row=1&column=7&margin-w=15&margin-h=15" alt="trophy collection" />
-  </a>
+  <!-- Top Languages (Reliable) -->
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=himanshupandey04&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" height="150" alt="Top Languages" />
 </div>
 
 <br>
