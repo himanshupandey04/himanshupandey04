@@ -163,14 +163,19 @@
 <hr>
 
 <div align="center">
-<h3>📫 Connect With Me</h3>
-<a href="https://linkedin.com/in/himanshupandey04">
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-</a>
-&nbsp;&nbsp;
-<a href="mailto:himanshupandey0410@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-</a>
+  <h3>📫 Connect With Me</h3>
+  <br>
+  <a href="https://linkedin.com/in/himanshupandey04" target="_blank">
+    <img src="https://skillicons.dev/icons?i=linkedin" height="40" alt="linkedin logo"  />
+  </a>
+  &nbsp;&nbsp;
+  <a href="mailto:himanshupandey0410@gmail.com" target="_blank">
+    <img src="https://skillicons.dev/icons?i=gmail" height="40" alt="gmail logo"  />
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://github.com/himanshupandey04" target="_blank">
+    <img src="https://skillicons.dev/icons?i=github" height="40" alt="github logo"  />
+  </a>
 </div>
 
 <br>
