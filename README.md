@@ -5,6 +5,11 @@ Dedicated to turning raw data into actionable insights and building automated AI
 
 ---
 
+### 📊 GitHub Activity in 3D
+![](https://github-profile-3d-contrib.vercel.app/api?username=himanshupandey04&theme=dark)
+
+---
+
 ### Featured Project
 **[Real-Time Doc Validator & Instant E-Challan Relay](https://github.com/himanshupandey04/Real-Time-Doc-Validator-Instant-E-Challan-Relay)**
 An AI-powered system for vehicle document verification and automated enforcement.
@@ -22,9 +27,9 @@ An AI-powered system for vehicle document verification and automated enforcement
 
 ---
 
-### GitHub Stats
-![Himanshu's Stats](https://github-readme-stats.vercel.app/api?username=himanshupandey04&show_icons=true&theme=nord&hide_border=true&count_private=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=himanshupandey04&layout=compact&theme=nord&hide_border=true)
+### GitHub Impact
+![Himanshu's Stats](https://github-readme-stats.vercel.app/api?username=himanshupandey04&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=himanshupandey04&layout=compact&theme=tokyonight&hide_border=true)
 
 ---
 
@@ -40,3 +45,7 @@ An AI-powered system for vehicle document verification and automated enforcement
 - **LinkedIn**: [linkedin.com/in/himanshupandey04](https://linkedin.com/in/himanshupandey04)
 - **Email**: himanshupandey0410@gmail.com
 - **Certifications**: Google Data Analytics (Pursuing) | Microsoft Power BI Data Analyst (Pursuing)
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/mayhemantt/mayhemantt/master/assets/github-contribution-grid-snake.svg" alt="Snake animation" />
+</p>
