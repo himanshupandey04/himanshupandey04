@@ -104,11 +104,20 @@
 ### 📊 GitHub Analytics
 
 <div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=himanshupandey04&theme=tokyonight" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=himanshupandey04&theme=tokyonight&utcOffset=5" />
+  <!-- Detailed Isometric & Habits Metrics (Generated Daily) -->
+  <img src="https://raw.githubusercontent.com/himanshupandey04/himanshupandey04/master/github-metrics.svg" width="100%" alt="Detailed Metrics (Generating... please wait for Action to run)" />
+  
+  <br><br>
+
+  <!-- Animated Contribution Graph (Rolling Window) -->
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=himanshupandey04&theme=tokyo-night&bg_color=0D1117&hide_border=true" width="100%" alt="Activity Graph" />
+
   <br>
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=himanshupandey04&theme=tokyonight" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=himanshupandey04&theme=tokyonight" />
+
+  <!-- Trophy Collection (Gamification) -->
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=himanshupandey04&theme=tokyonight&no-frame=true&row=1&column=7&margin-w=15&margin-h=15" alt="trophy collection" />
+  </a>
 </div>
 
 <br>
