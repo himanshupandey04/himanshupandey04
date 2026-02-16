@@ -101,12 +101,34 @@
 </div>
 <!-- START_PROJECTS -->
 
-| **PROJECT** | **DESCRIPTION** | **LANGUAGES / TOOLS** | **ACTION** |
-| :--- | :--- | :--- | :---: |
-| [Blood-Donation-Management](https://github.com/himanshupandey04/Blood-Donation-Management) | Full-stack MongoDB Inventory System for real-time donor tracking. | **HTML** 84.5% **Python** 12.2%  | [![Contribute](https://img.shields.io/badge/DO_CONTRIBUTION-000000?style=flat&logo=github&logoColor=white)](https://github.com/himanshupandey04/Blood-Donation-Management) |
-| [Real-Time-Doc-Validator-Instant-E-Challan-Relay](https://github.com/himanshupandey04/Real-Time-Doc-Validator-Instant-E-Challan-Relay) | Auto-Traffic Enforcement System using Computer Vision & Flask. | **JavaScript** 70.7% **HTML** 15.7% **Python** 7.6%  | [![Contribute](https://img.shields.io/badge/DO_CONTRIBUTION-000000?style=flat&logo=github&logoColor=white)](https://github.com/himanshupandey04/Real-Time-Doc-Validator-Instant-E-Challan-Relay) |
-| [Fashion-Discount-Prediction](https://github.com/himanshupandey04/Fashion-Discount-Prediction) | AI/ML Regression model for optimizing retail pricing strategies. | **Jupyter Notebook** 99.7%  | [![Contribute](https://img.shields.io/badge/DO_CONTRIBUTION-000000?style=flat&logo=github&logoColor=white)](https://github.com/himanshupandey04/Fashion-Discount-Prediction) |
-
+<table width="100%" border="0" cellspacing="0" cellpadding="5">
+<thead style="background-color: #161b22;"><tr><th width="20%">🚀 PROJECT MODULE</th><th width="45%">📋 INTELLIGENCE / DESC</th><th width="25%">📊 COMPOSITION (100%)</th><th width="10%">⚡ ACCESS</th></tr></thead>
+<tbody>
+<tr>
+<td valign="top"><a href="https://github.com/himanshupandey04/Real-Time-Doc-Validator-Instant-E-Challan-Relay"><b>Real-Time-Doc-Validator-Instant-E-Challan-Relay</b></a></td>
+<td valign="top">Auto-Traffic Enforcement System using Computer Vision & Flask.</td>
+<td valign="top"><img src="https://img.shields.io/badge/Python-80.0%25-3776AB?style=flat-square" /> <img src="https://img.shields.io/badge/HTML-15.0%25-E34F26?style=flat-square" /> <img src="https://img.shields.io/badge/CSS-5.0%25-1572B6?style=flat-square" /> </td>
+<td valign="top" align="center"><a href="https://github.com/himanshupandey04/Real-Time-Doc-Validator-Instant-E-Challan-Relay"><img src="https://img.shields.io/badge/OPEN-SYSTEM-success?style=for-the-badge&logo=github" height="20" /></a></td>
+</tr>
+<tr>
+<td valign="top"><a href="https://github.com/himanshupandey04/Blood-Donation-Management"><b>Blood-Donation-Management</b></a></td>
+<td valign="top">Full-stack MongoDB Inventory System for real-time donor tracking.</td>
+<td valign="top"><img src="https://img.shields.io/badge/HTML-80.0%25-E34F26?style=flat-square" /> <img src="https://img.shields.io/badge/JavaScript-15.0%25-F7DF1E?style=flat-square" /> <img src="https://img.shields.io/badge/CSS-5.0%25-1572B6?style=flat-square" /> </td>
+<td valign="top" align="center"><a href="https://github.com/himanshupandey04/Blood-Donation-Management"><img src="https://img.shields.io/badge/OPEN-SYSTEM-success?style=for-the-badge&logo=github" height="20" /></a></td>
+</tr>
+<tr>
+<td valign="top"><a href="https://github.com/himanshupandey04/Fashion-Discount-Prediction"><b>Fashion-Discount-Prediction</b></a></td>
+<td valign="top">AI/ML Regression model for optimizing retail pricing strategies.</td>
+<td valign="top"><img src="https://img.shields.io/badge/Jupyter Notebook-100.0%25-F37626?style=flat-square" /> </td>
+<td valign="top" align="center"><a href="https://github.com/himanshupandey04/Fashion-Discount-Prediction"><img src="https://img.shields.io/badge/OPEN-SYSTEM-success?style=for-the-badge&logo=github" height="20" /></a></td>
+</tr>
+<tr>
+<td valign="top"><a href="https://github.com/himanshupandey04/Parking-Ticket-Issuing-System-using-OCR"><b>Parking-Ticket-Issuing-System-using-OCR</b></a></td>
+<td valign="top">Automated parking ticket solution using OCR-based license plate detection.</td>
+<td valign="top"><img src="https://img.shields.io/badge/Python-90.0%25-3776AB?style=flat-square" /> <img src="https://img.shields.io/badge/C++-10.0%25-00599C?style=flat-square" /> </td>
+<td valign="top" align="center"><a href="https://github.com/himanshupandey04/Parking-Ticket-Issuing-System-using-OCR"><img src="https://img.shields.io/badge/OPEN-SYSTEM-success?style=for-the-badge&logo=github" height="20" /></a></td>
+</tr>
+</tbody></table>
 <!-- END_PROJECTS -->
 <br>
 <div align="center">
