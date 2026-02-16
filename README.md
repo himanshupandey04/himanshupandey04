@@ -24,31 +24,32 @@
             </p>
             <br>
             <h3>⚒ // ARSENAL</h3>
-            <!-- High Contrast Monochrome Badges -->
+            <!-- High Contrast Neon Badges (Local Assets) -->
             <p>
-                <img src="https://img.shields.io/badge/PYTHON-000000?style=for-the-badge&logo=python&logoColor=white" />
-                <img src="https://img.shields.io/badge/JAVASCRIPT-000000?style=for-the-badge&logo=javascript&logoColor=white" />
-                <img src="https://img.shields.io/badge/HTML5-000000?style=for-the-badge&logo=html5&logoColor=white" />
-                <img src="https://img.shields.io/badge/CSS3-000000?style=for-the-badge&logo=css3&logoColor=white" />
+                <img src="assets/icons/python.svg" alt="Python" />
+                <img src="assets/icons/javascript.svg" alt="JavaScript" />
+                <img src="assets/icons/html5.svg" alt="HTML5" />
+                <img src="assets/icons/css3.svg" alt="CSS3" />
                 <br>
-                <img src="https://img.shields.io/badge/PANDAS-000000?style=for-the-badge&logo=pandas&logoColor=white" />
-                <img src="https://img.shields.io/badge/NUMPY-000000?style=for-the-badge&logo=numpy&logoColor=white" />
-                <img src="https://img.shields.io/badge/SCIKIT_LEARN-000000?style=for-the-badge&logo=scikit-learn&logoColor=white" />
-                <img src="https://img.shields.io/badge/TENSORFLOW-000000?style=for-the-badge&logo=tensorflow&logoColor=white" />
-                <img src="https://img.shields.io/badge/PYTORCH-000000?style=for-the-badge&logo=pytorch&logoColor=white" />
+                <img src="assets/icons/pandas.svg" alt="Pandas" />
+                <img src="assets/icons/numpy.svg" alt="NumPy" />
+                <img src="assets/icons/scikit_learn.svg" alt="Scikit-Learn" />
+                <img src="assets/icons/tensorflow.svg" alt="TensorFlow" />
+                <img src="assets/icons/pytorch.svg" alt="PyTorch" />
                 <br>
-                <img src="https://img.shields.io/badge/MYSQL-000000?style=for-the-badge&logo=mysql&logoColor=white" />
-                <img src="https://img.shields.io/badge/POSTGRESQL-000000?style=for-the-badge&logo=postgresql&logoColor=white" />
-                <img src="https://img.shields.io/badge/MONGODB-000000?style=for-the-badge&logo=mongodb&logoColor=white" />
+                <img src="assets/icons/mysql.svg" alt="MySQL" />
+                <img src="assets/icons/postgresql.svg" alt="PostgreSQL" />
+                <img src="assets/icons/mongodb.svg" alt="MongoDB" />
                 <br>
-                <img src="https://img.shields.io/badge/POWER_BI-000000?style=for-the-badge&logo=powerbi&logoColor=white" />
-                <img src="https://img.shields.io/badge/TABLEAU-000000?style=for-the-badge&logo=tableau&logoColor=white" />
-                <img src="https://img.shields.io/badge/EXCEL-000000?style=for-the-badge&logo=microsoft-excel&logoColor=white" />
+                <img src="assets/icons/powerbi.svg" alt="Power BI" />
+                <img src="assets/icons/tableau.svg" alt="Tableau" />
+                <img src="assets/icons/excel.svg" alt="Excel" />
                 <br>
-                <img src="https://img.shields.io/badge/GIT-000000?style=for-the-badge&logo=git&logoColor=white" />
-                <img src="https://img.shields.io/badge/GITHUB-000000?style=for-the-badge&logo=github&logoColor=white" />
-                <img src="https://img.shields.io/badge/VS_CODE-000000?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
+                <img src="assets/icons/git.svg" alt="Git" />
+                <img src="assets/icons/github.svg" alt="GitHub" />
+                <img src="assets/icons/vscode.svg" alt="VS Code" />
             </p>
+
 
         </td>
         <td width="40%" align="center" valign="middle">
@@ -108,10 +109,10 @@
         <td align="center">
             <h3>📡 // ESTABLISH_UPLINK</h3>
             <a href="https://linkedin.com/in/himanshupandey04">
-                <img src="https://img.shields.io/badge/LINKEDIN-000000?style=for-the-badge&logo=linkedin&logoColor=white" />
+                <img src="assets/icons/linkedin.svg" alt="LinkedIn" />
             </a>
             <a href="mailto:himanshupandey0410@gmail.com">
-                <img src="https://img.shields.io/badge/EMAIL-000000?style=for-the-badge&logo=gmail&logoColor=white" />
+                <img src="assets/icons/email.svg" alt="Email" />
             </a>
         </td>
     </tr>
