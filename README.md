@@ -100,11 +100,13 @@
 <h3>:: DEPLOYED_MODULES (ACTIVE_REPOS) ::</h3>
 </div>
 <!-- START_PROJECTS -->
-| **PROJECT MODULE** | **DESCRIPTION** | **TECH STACK** | **LAST UPDATE** |
-| :--- | :--- | :--- | :--- |
-| [Blood-Donation-Management](https://github.com/himanshupandey04/Blood-Donation-Management) | Full-stack MongoDB Inventory System for real-time donor tracking. | ![HTML](https://img.shields.io/badge/-HTML-black?style=flat-square&logo=html5&logoColor=white) | Feb 16, 2026 |
-| [Real-Time-Doc-Validator-Instant-E-Challan-Relay](https://github.com/himanshupandey04/Real-Time-Doc-Validator-Instant-E-Challan-Relay) | Auto-Traffic Enforcement System using Computer Vision & Flask. | ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript&logoColor=white) | Feb 16, 2026 |
-| [Fashion-Discount-Prediction](https://github.com/himanshupandey04/Fashion-Discount-Prediction) | AI/ML Regression model for optimizing retail pricing strategies. | ![Jupyter Notebook](https://img.shields.io/badge/-Jupyter Notebook-black?style=flat-square&logo=jupyter&logoColor=white) | Feb 16, 2026 |
+
+| **PROJECT** | **DESCRIPTION** | **LANGUAGES / TOOLS** | **ACTION** |
+| :--- | :--- | :--- | :---: |
+| [Blood-Donation-Management](https://github.com/himanshupandey04/Blood-Donation-Management) | Full-stack MongoDB Inventory System for real-time donor tracking. | **HTML** 84.5% **Python** 12.2%  | [![Contribute](https://img.shields.io/badge/DO_CONTRIBUTION-000000?style=flat&logo=github&logoColor=white)](https://github.com/himanshupandey04/Blood-Donation-Management) |
+| [Real-Time-Doc-Validator-Instant-E-Challan-Relay](https://github.com/himanshupandey04/Real-Time-Doc-Validator-Instant-E-Challan-Relay) | Auto-Traffic Enforcement System using Computer Vision & Flask. | **JavaScript** 70.7% **HTML** 15.7% **Python** 7.6%  | [![Contribute](https://img.shields.io/badge/DO_CONTRIBUTION-000000?style=flat&logo=github&logoColor=white)](https://github.com/himanshupandey04/Real-Time-Doc-Validator-Instant-E-Challan-Relay) |
+| [Fashion-Discount-Prediction](https://github.com/himanshupandey04/Fashion-Discount-Prediction) | AI/ML Regression model for optimizing retail pricing strategies. | **Jupyter Notebook** 99.7%  | [![Contribute](https://img.shields.io/badge/DO_CONTRIBUTION-000000?style=flat&logo=github&logoColor=white)](https://github.com/himanshupandey04/Fashion-Discount-Prediction) |
+
 <!-- END_PROJECTS -->
 <br>
 <div align="center">

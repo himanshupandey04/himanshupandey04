@@ -45,37 +45,67 @@ def get_projects():
         print(f"Error fetching projects: {e}")
         return []
 
+def get_repo_languages(repo_name):
+    try:
+        url = f"https://api.github.com/repos/himanshupandey04/{repo_name}/languages"
+        response = requests.get(url)
+        if response.status_code == 200:
+            return response.json()
+        return {}
+    except:
+        return {}
+
+def generate_language_bar(languages):
+    if not languages:
+        return ""
+    
+    total_bytes = sum(languages.values())
+    if total_bytes == 0:
+        return ""
+        
+    bar_md = ""
+    # Sort by size
+    sorted_langs = sorted(languages.items(), key=lambda x: x[1], reverse=True)
+    
+    # Limit to top 3 to avoid clutter
+    for lang, bytes_count in sorted_langs[:3]:
+        percent = round((bytes_count / total_bytes) * 100, 1)
+        if percent > 5: # Only show significant languages
+            # Clean color name for shield
+            color = "blue"
+            l_lower = lang.lower()
+            if l_lower == "python": color = "3776AB"
+            elif l_lower == "javascript": color = "F7DF1E"
+            elif l_lower == "html": color = "E34F26"
+            elif l_lower == "css": color = "1572B6"
+            elif l_lower == "jupyter notebook": color = "F37626"
+            elif l_lower == "java": color = "007396"
+            
+            # Create a simple text-based representation or shield
+            # bar_md += f"![{lang}](https://img.shields.io/badge/{lang}-{percent}%25-{color}) "
+            bar_md += f"**{lang}** {percent}% "
+            
+    return bar_md
+
 def generate_markdown(projects):
     """Generates the Markdown table for the projects."""
-    md = "| **PROJECT MODULE** | **DESCRIPTION** | **TECH STACK** | **LAST UPDATE** |\n"
-    md += "| :--- | :--- | :--- | :--- |\n"
+    md = "| **PROJECT** | **DESCRIPTION** | **LANGUAGES / TOOLS** | **ACTION** |\n"
+    md += "| :--- | :--- | :--- | :---: |\n"
     
     for p in projects:
         name = f"[{p['name']}]({p['html_url']})"
         desc = p['description'] if p['description'] else "No description provided."
-        # Truncate desc if too long
-        if len(desc) > 60:
-            desc = desc[:57] + "..."
+        if len(desc) > 80:
+            desc = desc[:77] + "..."
             
-        lang = p['language'] if p['language'] else "Unknown"
+        # Fetch detailed languages
+        langs = get_repo_languages(p['name'])
+        lang_bar = generate_language_bar(langs)
         
-        # Mapping language to shield icon
-        lang_icon = ""
-        if lang:
-            l_lower = lang.lower()
-            color = "black" # consistent style
-            logo = l_lower
-            if l_lower == "jupyter notebook": logo = "jupyter"; color="F37626"
-            elif l_lower == "html": logo="html5"; color="E34F26"
-            elif l_lower == "css": logo="css3"; color="1572B6"
-            elif l_lower == "python": logo="python"; color="3776AB"
-            elif l_lower == "javascript": logo="javascript"; color="F7DF1E"
-            
-            lang_icon = f"![{lang}](https://img.shields.io/badge/-{lang}-black?style=flat-square&logo={logo}&logoColor=white)"
-
-        updated = datetime.strptime(p['updated_at'], "%Y-%m-%dT%H:%M:%SZ").strftime("%b %d, %Y")
+        # Contribution Badge
+        contrib_link = f"[![Contribute](https://img.shields.io/badge/DO_CONTRIBUTION-000000?style=flat&logo=github&logoColor=white)]({p['html_url']})"
         
-        md += f"| {name} | {desc} | {lang_icon} | {updated} |\n"
+        md += f"| {name} | {desc} | {lang_bar} | {contrib_link} |\n"
         
     return md
 

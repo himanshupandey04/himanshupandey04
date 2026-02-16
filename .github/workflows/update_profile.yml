@@ -23,10 +23,20 @@ jobs:
           pip install requests
           python scripts/update_dashboard.py
           
+      - name: Generate Snake Animation
+        uses: Platane/snk/svg-only@v3
+        with:
+          github_user_name: ${{ github.repository_owner }}
+          outputs: |
+            dist/github-contribution-grid-snake.svg
+            dist/github-contribution-grid-snake-dark.svg?palette=github-dark
+          
       - name: Commit and Push
         run: |
           git config --global user.name "GitHub Action"
           git config --global user.email "action@github.com"
           git add README.md
-          git commit -m "chore: update project dashboard" || echo "No changes to commit"
+          # Force adding the dist folder if it's new
+          git add dist/
+          git commit -m "chore: update dashboard & snake animation" || echo "No changes to commit"
           git push
