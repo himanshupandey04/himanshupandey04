@@ -104,13 +104,25 @@
 ### 📊 GitHub Analytics
 
 <div align="center">
-<table border="0" style="border: none;">
-<tr>
-<td><img src="https://github-readme-stats.vercel.app/api?username=himanshupandey04&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" width="400" /></td>
-<td><img src="https://github-readme-streak-stats.herokuapp.com/?user=himanshupandey04&theme=tokyonight&hide_border=true" width="400" /></td>
-</tr>
-</table>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=himanshupandey04&layout=compact&theme=tokyonight&hide_border=true" width="60%" />
+  <!-- Stats & Streak -->
+  <a href="https://github.com/himanshupandey04">
+    <img src="https://github-readme-stats.vercel.app/api?username=himanshupandey04&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" height="180" alt="stats graph"  />
+  </a>
+  <a href="https://github.com/himanshupandey04">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=himanshupandey04&theme=tokyonight&hide_border=true" height="180" alt="streak graph" />
+  </a>
+
+  <!-- Top Languages & Trophies -->
+  <br><br>
+  <a href="https://github.com/himanshupandey04">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=himanshupandey04&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" height="150" alt="languages graph" />
+  </a>
+  
+   <br>
+   <!-- Trophy Collection (Gamification) -->
+   <a href="https://github.com/ryo-ma/github-profile-trophy">
+      <img src="https://github-profile-trophy.vercel.app/?username=himanshupandey04&theme=tokyonight&no-frame=true&row=1&column=7" />
+   </a>
 </div>
 
 <br>
