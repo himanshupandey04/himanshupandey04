@@ -5,12 +5,12 @@
 -->
 
 <div align="center">
-    <img src="assets/animated_icons/line.gif" width="100%" />
+    <img src="https://raw.githubusercontent.com/himanshupandey04/himanshupandey04/main/assets/animated_icons/line.gif" width="100%" />
     <br>
     <h1>SYSTEM ANALYSIS DASHBOARD // HIMANSHU KUMAR PANDEY</h1>
     <h3>[ ROLE: DATA ARCHITECT | STATUS: ONLINE ]</h3>
     <br>
-    <img src="assets/animated_icons/line.gif" width="100%" />
+    <img src="https://raw.githubusercontent.com/himanshupandey04/himanshupandey04/main/assets/animated_icons/line.gif" width="100%" />
 </div>
 
 <br>
@@ -52,41 +52,41 @@
             <h3>:: CORE_ARSENAL ::</h3>
             <table border="0" width="100%">
                 <tr>
-                    <td width="60" align="center"><img src="assets/animated_icons/coding.gif" width="50" /></td>
+                    <td width="60" align="center"><img src="https://raw.githubusercontent.com/himanshupandey04/himanshupandey04/main/assets/animated_icons/coding.gif" width="50" /></td>
                     <td>
-                        <img src="assets/icons/python.svg" height="25" />
-                        <img src="assets/icons/javascript.svg" height="25" />
-                        <img src="assets/icons/html5.svg" height="25" />
-                        <img src="assets/icons/css3.svg" height="25" />
+                        <img src="https://raw.githubusercontent.com/himanshupandey04/himanshupandey04/main/assets/icons/python.svg" height="25" />
+                        <img src="https://raw.githubusercontent.com/himanshupandey04/himanshupandey04/main/assets/icons/javascript.svg" height="25" />
+                        <img src="https://raw.githubusercontent.com/himanshupandey04/himanshupandey04/main/assets/icons/html5.svg" height="25" />
+                        <img src="https://raw.githubusercontent.com/himanshupandey04/himanshupandey04/main/assets/icons/css3.svg" height="25" />
                     </td>
                 </tr>
                 <tr>
-                    <td width="60" align="center"><img src="assets/animated_icons/data.gif" width="50" /></td>
+                    <td width="60" align="center"><img src="https://raw.githubusercontent.com/himanshupandey04/himanshupandey04/main/assets/animated_icons/data.gif" width="50" /></td>
                     <td>
-                        <img src="assets/icons/pandas.svg" height="25" />
-                        <img src="assets/icons/numpy.svg" height="25" />
-                        <img src="assets/icons/powerbi.svg" height="25" />
-                        <img src="assets/icons/tableau.svg" height="25" />
-                        <img src="assets/icons/excel.svg" height="25" />
+                        <img src="https://raw.githubusercontent.com/himanshupandey04/himanshupandey04/main/assets/icons/pandas.svg" height="25" />
+                        <img src="https://raw.githubusercontent.com/himanshupandey04/himanshupandey04/main/assets/icons/numpy.svg" height="25" />
+                        <img src="https://raw.githubusercontent.com/himanshupandey04/himanshupandey04/main/assets/icons/powerbi.svg" height="25" />
+                        <img src="https://raw.githubusercontent.com/himanshupandey04/himanshupandey04/main/assets/icons/tableau.svg" height="25" />
+                        <img src="https://raw.githubusercontent.com/himanshupandey04/himanshupandey04/main/assets/icons/excel.svg" height="25" />
                     </td>
                 </tr>
                 <tr>
-                    <td width="60" align="center"><img src="assets/animated_icons/brain.gif" width="50" /></td>
+                    <td width="60" align="center"><img src="https://raw.githubusercontent.com/himanshupandey04/himanshupandey04/main/assets/animated_icons/brain.gif" width="50" /></td>
                     <td>
-                        <img src="assets/icons/tensorflow.svg" height="25" />
-                        <img src="assets/icons/pytorch.svg" height="25" />
-                        <img src="assets/icons/scikit_learn.svg" height="25" />
-                        <img src="assets/icons/datascience.svg" height="25" />
+                        <img src="https://raw.githubusercontent.com/himanshupandey04/himanshupandey04/main/assets/icons/tensorflow.svg" height="25" />
+                        <img src="https://raw.githubusercontent.com/himanshupandey04/himanshupandey04/main/assets/icons/pytorch.svg" height="25" />
+                        <img src="https://raw.githubusercontent.com/himanshupandey04/himanshupandey04/main/assets/icons/scikit_learn.svg" height="25" />
+                        <img src="https://raw.githubusercontent.com/himanshupandey04/himanshupandey04/main/assets/icons/datascience.svg" height="25" />
                     </td>
                 </tr>
                 <tr>
-                    <td width="60" align="center"><img src="assets/animated_icons/server.gif" width="50" /></td>
+                    <td width="60" align="center"><img src="https://raw.githubusercontent.com/himanshupandey04/himanshupandey04/main/assets/animated_icons/server.gif" width="50" /></td>
                     <td>
-                        <img src="assets/icons/mysql.svg" height="25" />
-                        <img src="assets/icons/postgresql.svg" height="25" />
-                        <img src="assets/icons/mongodb.svg" height="25" />
-                        <img src="assets/icons/git.svg" height="25" />
-                        <img src="assets/icons/github.svg" height="25" />
+                        <img src="https://raw.githubusercontent.com/himanshupandey04/himanshupandey04/main/assets/icons/mysql.svg" height="25" />
+                        <img src="https://raw.githubusercontent.com/himanshupandey04/himanshupandey04/main/assets/icons/postgresql.svg" height="25" />
+                        <img src="https://raw.githubusercontent.com/himanshupandey04/himanshupandey04/main/assets/icons/mongodb.svg" height="25" />
+                        <img src="https://raw.githubusercontent.com/himanshupandey04/himanshupandey04/main/assets/icons/git.svg" height="25" />
+                        <img src="https://raw.githubusercontent.com/himanshupandey04/himanshupandey04/main/assets/icons/github.svg" height="25" />
                     </td>
                 </tr>
             </table>
@@ -121,7 +121,7 @@
 <br>
 
 <div align="center">
-    <img src="assets/animated_icons/line.gif" width="100%" />
+    <img src="https://raw.githubusercontent.com/himanshupandey04/himanshupandey04/main/assets/animated_icons/line.gif" width="100%" />
     <br>
     <code> END_OF_TRANSMISSION // HIMANSHU_PANDEY </code>
 </div>
