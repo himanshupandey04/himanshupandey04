@@ -135,28 +135,140 @@
 
 <!-- START_PROJECTS -->
 
-<table width="100%" style="border-collapse: collapse; background-color: #0d1117; border: 1px solid #30363d; color: #e6edf3;">
-<thead style="background-color: #161b22; border-bottom: 1px solid #30363d;"><tr><th width="20%" align="left" style="padding: 10px;"><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People/Technologist.png" height="25" style="vertical-align: middle;" />&nbsp; PROJECT MODULE</th><th width="45%" align="left" style="padding: 10px;"><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Light%20Bulb.png" height="25" style="vertical-align: middle;" />&nbsp; INTELLIGENCE / DESC</th><th width="25%" align="left" style="padding: 10px;"><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Chart%20Increasing.png" height="25" style="vertical-align: middle;" />&nbsp; COMPOSITION (100%)</th><th width="10%" align="center" style="padding: 10px;"><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Rocket.png" height="25" style="vertical-align: middle;" />&nbsp; ACCESS</th></tr></thead>
-<tbody>
-<tr style="border-bottom: 1px solid #21262d;">
-<td valign="top" style="padding: 10px;"><a href="https://github.com/himanshupandey04/Blood-Donation-Management" style="color: #58a6ff; text-decoration: none;"><b>Blood-Donation-Management</b></a></td>
-<td valign="top" style="padding: 10px;">Full-stack MongoDB Inventory System for real-time donor tracking.</td>
-<td valign="top" style="padding: 10px;"><img src="https://img.shields.io/badge/HTML-84.5%25-E34F26?style=flat-square" /> <img src="https://img.shields.io/badge/Python-12.2%25-3776AB?style=flat-square" /> <img src="https://img.shields.io/badge/CSS-2.2%25-1572B6?style=flat-square" /> <img src="https://img.shields.io/badge/JavaScript-1.1%25-F7DF1E?style=flat-square" /> </td>
-<td valign="top" align="center" style="padding: 10px;"><a href="https://github.com/himanshupandey04/Blood-Donation-Management"><img src="https://img.shields.io/badge/INITIALIZE-1f6feb?style=for-the-badge&logo=github&logoColor=white" height="25" /></a></td>
-</tr>
-<tr style="border-bottom: 1px solid #21262d;">
-<td valign="top" style="padding: 10px;"><a href="https://github.com/himanshupandey04/Real-Time-Doc-Validator-Instant-E-Challan-Relay" style="color: #58a6ff; text-decoration: none;"><b>Real-Time-Doc-Validator-Instant-E-Challan-Relay</b></a></td>
-<td valign="top" style="padding: 10px;">Auto-Traffic Enforcement System using Computer Vision & Flask.</td>
-<td valign="top" style="padding: 10px;"><img src="https://img.shields.io/badge/JavaScript-70.7%25-F7DF1E?style=flat-square" /> <img src="https://img.shields.io/badge/HTML-15.7%25-E34F26?style=flat-square" /> <img src="https://img.shields.io/badge/Python-7.6%25-3776AB?style=flat-square" /> <img src="https://img.shields.io/badge/CSS-5.7%25-1572B6?style=flat-square" /> </td>
-<td valign="top" align="center" style="padding: 10px;"><a href="https://github.com/himanshupandey04/Real-Time-Doc-Validator-Instant-E-Challan-Relay"><img src="https://img.shields.io/badge/INITIALIZE-1f6feb?style=for-the-badge&logo=github&logoColor=white" height="25" /></a></td>
-</tr>
-<tr style="border-bottom: 1px solid #21262d;">
-<td valign="top" style="padding: 10px;"><a href="https://github.com/himanshupandey04/Fashion-Discount-Prediction" style="color: #58a6ff; text-decoration: none;"><b>Fashion-Discount-Prediction</b></a></td>
-<td valign="top" style="padding: 10px;">AI/ML Regression model for optimizing retail pricing strategies.</td>
-<td valign="top" style="padding: 10px;"><img src="https://img.shields.io/badge/Jupyter Notebook-99.7%25-F37626?style=flat-square" /> </td>
-<td valign="top" align="center" style="padding: 10px;"><a href="https://github.com/himanshupandey04/Fashion-Discount-Prediction"><img src="https://img.shields.io/badge/INITIALIZE-1f6feb?style=for-the-badge&logo=github&logoColor=white" height="25" /></a></td>
-</tr>
-</tbody></table>
+<div align="center">
+
+<table width="100%" style="border-collapse: collapse; background-color: #0d1117; border: 1px solid #30363d; border-radius: 10px; margin-bottom: 20px; overflow: hidden;">
+  <tr>
+    <td style="padding: 2px; background: linear-gradient(90deg, #1f6feb 0%, #8957e5 100%);"></td>
+  </tr>
+  <tr>
+    <td style="padding: 20px;">
+      <table width="100%" style="border-collapse: collapse;">
+        <tr>
+          <td valign="top" align="left">
+            <a href="https://github.com/himanshupandey04/Real-Time-Doc-Validator-Instant-E-Challan-Relay" style="text-decoration: none;">
+              <h3 style="margin: 0; color: #58a6ff; font-family: sans-serif;">
+                <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Package.png" height="22" style="vertical-align: middle;" />
+                &nbsp;Real-Time-Doc-Validator-Instant-E-Challan-Relay
+              </h3>
+            </a>
+            <p style="color: #8b949e; font-size: 14px; margin: 10px 0; font-family: sans-serif; line-height: 1.5;">
+              Auto-Traffic Enforcement System using Computer Vision & Flask.
+            </p>
+            <div style="margin-top: 15px;">
+              <img src="https://img.shields.io/badge/Python-80.0%25-3776AB?style=flat-square" /> <img src="https://img.shields.io/badge/HTML-15.0%25-E34F26?style=flat-square" /> <img src="https://img.shields.io/badge/CSS-5.0%25-1572B6?style=flat-square" /> 
+            </div>
+          </td>
+          <td width="120" align="right" valign="middle">
+            <a href="https://github.com/himanshupandey04/Real-Time-Doc-Validator-Instant-E-Challan-Relay">
+              <img src="https://img.shields.io/badge/RUN_MODULE-238636?style=for-the-badge&logo=github&logoColor=white" height="32" />
+            </a>
+          </td>
+        </tr>
+      </table>
+    </td>
+  </tr>
+</table>
+
+<table width="100%" style="border-collapse: collapse; background-color: #0d1117; border: 1px solid #30363d; border-radius: 10px; margin-bottom: 20px; overflow: hidden;">
+  <tr>
+    <td style="padding: 2px; background: linear-gradient(90deg, #1f6feb 0%, #8957e5 100%);"></td>
+  </tr>
+  <tr>
+    <td style="padding: 20px;">
+      <table width="100%" style="border-collapse: collapse;">
+        <tr>
+          <td valign="top" align="left">
+            <a href="https://github.com/himanshupandey04/Blood-Donation-Management" style="text-decoration: none;">
+              <h3 style="margin: 0; color: #58a6ff; font-family: sans-serif;">
+                <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Package.png" height="22" style="vertical-align: middle;" />
+                &nbsp;Blood-Donation-Management
+              </h3>
+            </a>
+            <p style="color: #8b949e; font-size: 14px; margin: 10px 0; font-family: sans-serif; line-height: 1.5;">
+              Full-stack MongoDB Inventory System for real-time donor tracking.
+            </p>
+            <div style="margin-top: 15px;">
+              <img src="https://img.shields.io/badge/HTML-80.0%25-E34F26?style=flat-square" /> <img src="https://img.shields.io/badge/JavaScript-15.0%25-F7DF1E?style=flat-square" /> <img src="https://img.shields.io/badge/CSS-5.0%25-1572B6?style=flat-square" /> 
+            </div>
+          </td>
+          <td width="120" align="right" valign="middle">
+            <a href="https://github.com/himanshupandey04/Blood-Donation-Management">
+              <img src="https://img.shields.io/badge/RUN_MODULE-238636?style=for-the-badge&logo=github&logoColor=white" height="32" />
+            </a>
+          </td>
+        </tr>
+      </table>
+    </td>
+  </tr>
+</table>
+
+<table width="100%" style="border-collapse: collapse; background-color: #0d1117; border: 1px solid #30363d; border-radius: 10px; margin-bottom: 20px; overflow: hidden;">
+  <tr>
+    <td style="padding: 2px; background: linear-gradient(90deg, #1f6feb 0%, #8957e5 100%);"></td>
+  </tr>
+  <tr>
+    <td style="padding: 20px;">
+      <table width="100%" style="border-collapse: collapse;">
+        <tr>
+          <td valign="top" align="left">
+            <a href="https://github.com/himanshupandey04/Fashion-Discount-Prediction" style="text-decoration: none;">
+              <h3 style="margin: 0; color: #58a6ff; font-family: sans-serif;">
+                <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Package.png" height="22" style="vertical-align: middle;" />
+                &nbsp;Fashion-Discount-Prediction
+              </h3>
+            </a>
+            <p style="color: #8b949e; font-size: 14px; margin: 10px 0; font-family: sans-serif; line-height: 1.5;">
+              AI/ML Regression model for optimizing retail pricing strategies.
+            </p>
+            <div style="margin-top: 15px;">
+              <img src="https://img.shields.io/badge/Jupyter Notebook-100.0%25-F37626?style=flat-square" /> 
+            </div>
+          </td>
+          <td width="120" align="right" valign="middle">
+            <a href="https://github.com/himanshupandey04/Fashion-Discount-Prediction">
+              <img src="https://img.shields.io/badge/RUN_MODULE-238636?style=for-the-badge&logo=github&logoColor=white" height="32" />
+            </a>
+          </td>
+        </tr>
+      </table>
+    </td>
+  </tr>
+</table>
+
+<table width="100%" style="border-collapse: collapse; background-color: #0d1117; border: 1px solid #30363d; border-radius: 10px; margin-bottom: 20px; overflow: hidden;">
+  <tr>
+    <td style="padding: 2px; background: linear-gradient(90deg, #1f6feb 0%, #8957e5 100%);"></td>
+  </tr>
+  <tr>
+    <td style="padding: 20px;">
+      <table width="100%" style="border-collapse: collapse;">
+        <tr>
+          <td valign="top" align="left">
+            <a href="https://github.com/himanshupandey04/Parking-Ticket-Issuing-System-using-OCR" style="text-decoration: none;">
+              <h3 style="margin: 0; color: #58a6ff; font-family: sans-serif;">
+                <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Package.png" height="22" style="vertical-align: middle;" />
+                &nbsp;Parking-Ticket-Issuing-System-using-OCR
+              </h3>
+            </a>
+            <p style="color: #8b949e; font-size: 14px; margin: 10px 0; font-family: sans-serif; line-height: 1.5;">
+              Automated parking ticket solution using OCR-based license plate detection.
+            </p>
+            <div style="margin-top: 15px;">
+              <img src="https://img.shields.io/badge/Python-90.0%25-3776AB?style=flat-square" /> <img src="https://img.shields.io/badge/C++-10.0%25-00599C?style=flat-square" /> 
+            </div>
+          </td>
+          <td width="120" align="right" valign="middle">
+            <a href="https://github.com/himanshupandey04/Parking-Ticket-Issuing-System-using-OCR">
+              <img src="https://img.shields.io/badge/RUN_MODULE-238636?style=for-the-badge&logo=github&logoColor=white" height="32" />
+            </a>
+          </td>
+        </tr>
+      </table>
+    </td>
+  </tr>
+</table>
+</div>
 <!-- END_PROJECTS -->
 
 <br>

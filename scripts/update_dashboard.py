@@ -124,24 +124,14 @@ def generate_language_bar(languages):
     return bar_html
 
 def generate_markdown(projects):
-    # Professional HTML Container Table with "Terminal" aesthetic
-    
-    html_output = '<table width="100%" style="border-collapse: collapse; background-color: #0d1117; border: 1px solid #30363d; color: #e6edf3;">\n'
-    
-    # Header Row with Animated Icons
-    html_output += '<thead style="background-color: #161b22; border-bottom: 1px solid #30363d;"><tr>'
-    html_output += f'<th width="20%" align="left" style="padding: 10px;"><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People/Technologist.png" height="25" style="vertical-align: middle;" />&nbsp; PROJECT MODULE</th>'
-    html_output += f'<th width="45%" align="left" style="padding: 10px;"><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Light%20Bulb.png" height="25" style="vertical-align: middle;" />&nbsp; INTELLIGENCE / DESC</th>'
-    html_output += f'<th width="25%" align="left" style="padding: 10px;"><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Chart%20Increasing.png" height="25" style="vertical-align: middle;" />&nbsp; COMPOSITION (100%)</th>'
-    html_output += f'<th width="10%" align="center" style="padding: 10px;"><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Rocket.png" height="25" style="vertical-align: middle;" />&nbsp; ACCESS</th>'
-    html_output += '</tr></thead>\n<tbody>\n'
+    html_output = '<div align="center">\n'
     
     for p in projects:
         name = p['name']
         url = p['html_url']
         desc = p['description'] if p['description'] else "System module active."
-        if len(desc) > 90:
-            desc = desc[:87] + "..."
+        if len(desc) > 120:
+            desc = desc[:117] + "..."
             
         langs = get_repo_languages(name)
         if not langs and 'languages_cache' in p:
@@ -149,14 +139,43 @@ def generate_markdown(projects):
              
         lang_bar = generate_language_bar(langs)
         
-        html_output += '<tr style="border-bottom: 1px solid #21262d;">\n'
-        html_output += f'<td valign="top" style="padding: 10px;"><a href="{url}" style="color: #58a6ff; text-decoration: none;"><b>{name}</b></a></td>\n'
-        html_output += f'<td valign="top" style="padding: 10px;">{desc}</td>\n'
-        html_output += f'<td valign="top" style="padding: 10px;">{lang_bar}</td>\n'
-        html_output += f'<td valign="top" align="center" style="padding: 10px;"><a href="{url}"><img src="https://img.shields.io/badge/INITIALIZE-1f6feb?style=for-the-badge&logo=github&logoColor=white" height="25" /></a></td>\n'
-        html_output += '</tr>\n'
+        # Grid Item (Card) - Designed to look like a premium software module
+        html_output += f'''
+<table width="100%" style="border-collapse: collapse; background-color: #0d1117; border: 1px solid #30363d; border-radius: 10px; margin-bottom: 20px; overflow: hidden;">
+  <tr>
+    <td style="padding: 2px; background: linear-gradient(90deg, #1f6feb 0%, #8957e5 100%);"></td>
+  </tr>
+  <tr>
+    <td style="padding: 20px;">
+      <table width="100%" style="border-collapse: collapse;">
+        <tr>
+          <td valign="top" align="left">
+            <a href="{url}" style="text-decoration: none;">
+              <h3 style="margin: 0; color: #58a6ff; font-family: sans-serif;">
+                <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Package.png" height="22" style="vertical-align: middle;" />
+                &nbsp;{name}
+              </h3>
+            </a>
+            <p style="color: #8b949e; font-size: 14px; margin: 10px 0; font-family: sans-serif; line-height: 1.5;">
+              {desc}
+            </p>
+            <div style="margin-top: 15px;">
+              {lang_bar}
+            </div>
+          </td>
+          <td width="120" align="right" valign="middle">
+            <a href="{url}">
+              <img src="https://img.shields.io/badge/RUN_MODULE-238636?style=for-the-badge&logo=github&logoColor=white" height="32" />
+            </a>
+          </td>
+        </tr>
+      </table>
+    </td>
+  </tr>
+</table>
+'''
         
-    html_output += '</tbody></table>'
+    html_output += '</div>'
     return html_output
 
 def update_readme():
