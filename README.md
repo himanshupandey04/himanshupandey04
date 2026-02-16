@@ -3,7 +3,7 @@
 </h1>
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=himanshupandey04&theme=radical&no-bg=false&margin-w=15" alt="Trophies" />
+  <img src="https://github-profile-trophy.vercel.app/?username=himanshupandey04&theme=radical&no-bg=false&margin-w=15&v=10" alt="Trophies" />
 </p>
 
 ### 🌌 Exploring the Cosmos of Data
@@ -20,15 +20,15 @@ Dedicated to turning raw data into actionable insights and building automated AI
 
 ### 📈 Growth & Impact
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=himanshupandey04&show_icons=true&theme=radical&count_private=true&hide_border=false" alt="Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=himanshupandey04&show_icons=true&theme=radical&count_private=true&hide_border=false&v=10" alt="Stats" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=himanshupandey04&theme=radical&hide_border=false" alt="Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=himanshupandey04&theme=radical&hide_border=false&v=10" alt="Streak" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=himanshupandey04&layout=compact&theme=radical&hide_border=false" alt="Top Langs" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=himanshupandey04&layout=compact&theme=radical&hide_border=false&v=10" alt="Top Langs" />
 </p>
 
 ---
@@ -55,11 +55,12 @@ Dedicated to turning raw data into actionable insights and building automated AI
 </p>
 
 <p align="center">
-  <em>"I like to move it, move it... but mostly I like to move Data!" - Mort (probably)</em>
+  <em>"I like to move it, move it... but mostly I like to move Data!" - Mort 🐭</em>
 </p>
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/mayhemantt/mayhemantt/master/assets/github-contribution-grid-snake.svg" alt="Snake animation" />
 </p>
+
 
 
