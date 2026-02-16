@@ -4,17 +4,17 @@
 -->
 
 <div align="center">
-    <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Himanshu%20Kumar%20Pandey&fontSize=70&fontAlignY=35&desc=Data%20Scientist%20%7C%20AI%20Engineer%20%7C%20Full%20Stack%20Developer&descAlignY=60&descAlign=50" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Himanshu%20Kumar%20Pandey&fontSize=70&fontAlignY=35&desc=Data%20Scientist%20%7C%20AI%20Engineer%20%7C%20Full%20Stack%20Developer&descAlignY=60&descAlign=50" width="100%" />
 
-    <a href="https://git.io/typing-svg">
-      <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=2094F3&center=true&vCenter=true&width=500&lines=Building+Intelligent+Systems;Analyzing+Complex+Data;Automating+Workflows;Transforming+Ideas+into+Code" alt="Typing SVG" />
-    </a>
+<a href="https://git.io/typing-svg">
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=2094F3&center=true&vCenter=true&width=500&lines=Building+Intelligent+Systems;Analyzing+Complex+Data;Automating+Workflows;Transforming+Ideas+into+Code" alt="Typing SVG" />
+</a>
 </div>
 
 <br>
 
 <div align="center">
-    <b>📍 Bangalore, India &nbsp; | &nbsp; 🎓 PES University &nbsp; | &nbsp; 🚀 Open to Collaborations</b>
+<b>📍 Bangalore, India &nbsp; | &nbsp; 🎓 PES University &nbsp; | &nbsp; 🚀 Open to Collaborations</b>
 </div>
 
 <br>
@@ -35,42 +35,42 @@ I am a passionate **Data Scientist** and **Full Stack Developer** with a focus o
 ### 🛠️ Technologies & Tools
 
 <table width="100%" style="border: none;">
-    <tr>
-        <td valign="top" width="50%">
-            <h4 align="center">💻 Languages & Frameworks</h4>
-            <div align="center">
-                <a href="https://skillicons.dev">
-                    <img src="https://skillicons.dev/icons?i=python,js,html,css,cpp,java&theme=dark" />
-                </a>
-                <br><br>
-                <a href="https://skillicons.dev">
-                    <img src="https://skillicons.dev/icons?i=react,flask,nodejs,express,bootstrap,tailwind&theme=dark" />
-                </a>
-            </div>
-        </td>
-        <td valign="top" width="50%">
-            <h4 align="center">🧠 Data Science & AI</h4>
-            <div align="center">
-                <a href="https://skillicons.dev">
-                    <img src="https://skillicons.dev/icons?i=tensorflow,pytorch,sklearn,opencv,pandas,numpy&theme=dark" />
-                </a>
-                <br><br>
-                <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white" height="30" />
-                <img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" height="30" />
-                <img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white" height="30" />
-            </div>
-        </td>
-    </tr>
-    <tr>
-        <td valign="top" colspan="2">
-            <h4 align="center">⚙️ DevOps & Tools</h4>
-            <div align="center">
-                <a href="https://skillicons.dev">
-                    <img src="https://skillicons.dev/icons?i=git,github,vscode,mysql,postgres,mongodb,firebase,postman&theme=dark" />
-                </a>
-            </div>
-        </td>
-    </tr>
+<tr>
+<td valign="top" width="50%">
+<h4 align="center">💻 Languages & Frameworks</h4>
+<div align="center">
+<a href="https://skillicons.dev">
+<img src="https://skillicons.dev/icons?i=python,js,html,css,cpp,java&theme=dark" />
+</a>
+<br><br>
+<a href="https://skillicons.dev">
+<img src="https://skillicons.dev/icons?i=react,flask,nodejs,express,bootstrap,tailwind&theme=dark" />
+</a>
+</div>
+</td>
+<td valign="top" width="50%">
+<h4 align="center">🧠 Data Science & AI</h4>
+<div align="center">
+<a href="https://skillicons.dev">
+<img src="https://skillicons.dev/icons?i=tensorflow,pytorch,sklearn,opencv,pandas,numpy&theme=dark" />
+</a>
+<br><br>
+<img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white" height="30" />
+<img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" height="30" />
+<img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white" height="30" />
+</div>
+</td>
+</tr>
+<tr>
+<td valign="top" colspan="2">
+<h4 align="center">⚙️ DevOps & Tools</h4>
+<div align="center">
+<a href="https://skillicons.dev">
+<img src="https://skillicons.dev/icons?i=git,github,vscode,mysql,postgres,mongodb,firebase,postman&theme=dark" />
+</a>
+</div>
+</td>
+</tr>
 </table>
 
 <br>
@@ -79,20 +79,20 @@ I am a passionate **Data Scientist** and **Full Stack Developer** with a focus o
 ### 📊 GitHub Analytics
 
 <div align="center">
-    <table border="0" style="border: none;">
-        <tr>
-            <td><img src="https://github-readme-stats.vercel.app/api?username=himanshupandey04&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" width="400" /></td>
-            <td><img src="https://github-readme-streak-stats.herokuapp.com/?user=himanshupandey04&theme=tokyonight&hide_border=true" width="400" /></td>
-        </tr>
-    </table>
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=himanshupandey04&layout=compact&theme=tokyonight&hide_border=true" width="60%" />
+<table border="0" style="border: none;">
+<tr>
+<td><img src="https://github-readme-stats.vercel.app/api?username=himanshupandey04&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" width="400" /></td>
+<td><img src="https://github-readme-streak-stats.herokuapp.com/?user=himanshupandey04&theme=tokyonight&hide_border=true" width="400" /></td>
+</tr>
+</table>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=himanshupandey04&layout=compact&theme=tokyonight&hide_border=true" width="60%" />
 </div>
 
 <br>
 <hr>
 
 <div align="center">
-    <h3>🚧 ACTIVE SYSTEM MODULES</h3>
+<h3>🚧 ACTIVE SYSTEM MODULES</h3>
 </div>
 
 <!-- START_PROJECTS -->
@@ -124,24 +124,24 @@ I am a passionate **Data Scientist** and **Full Stack Developer** with a focus o
 <br>
 <hr>
 
-### 🐍 Contribution Activity
+### 🐍 Daily Activity & Contribution Game
 
 <div align="center">
-    <img src="https://raw.githubusercontent.com/himanshupandey04/himanshupandey04/output/github-contribution-grid-snake.svg" width="100%" />
+<img src="https://raw.githubusercontent.com/himanshupandey04/himanshupandey04/output/github-contribution-grid-snake.svg" width="100%" />
 </div>
 
 <br>
 <hr>
 
 <div align="center">
-    <h3>📫 Connect With Me</h3>
-    <a href="https://linkedin.com/in/himanshupandey04">
-        <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-    </a>
-    &nbsp;&nbsp;
-    <a href="mailto:himanshupandey0410@gmail.com">
-        <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-    </a>
+<h3>📫 Connect With Me</h3>
+<a href="https://linkedin.com/in/himanshupandey04">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+&nbsp;&nbsp;
+<a href="mailto:himanshupandey0410@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
 </div>
 
 <br>
