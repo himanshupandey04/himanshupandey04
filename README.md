@@ -20,13 +20,15 @@ Dedicated to turning raw data into actionable insights and building automated AI
 
 ### 📈 Growth & Impact
 <p align="center">
-  <img align="left" src="https://github-readme-stats.vercel.app/api?username=himanshupandey04&show_icons=true&theme=tokyonight&count_private=true&hide_border=true" alt="Stats" width="48%" />
-  <img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=himanshupandey04&theme=tokyonight&hide_border=true" alt="Streak" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=himanshupandey04&show_icons=true&theme=radical&count_private=true&hide_border=false" alt="Stats" />
 </p>
-<br/><br/><br/><br/><br/><br/><br/><br/>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=himanshupandey04&layout=compact&theme=tokyonight&hide_border=true" alt="Top Langs" width="400" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=himanshupandey04&theme=radical&hide_border=false" alt="Streak" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=himanshupandey04&layout=compact&theme=radical&hide_border=false" alt="Top Langs" />
 </p>
 
 ---
@@ -53,6 +55,11 @@ Dedicated to turning raw data into actionable insights and building automated AI
 </p>
 
 <p align="center">
+  <em>"I like to move it, move it... but mostly I like to move Data!" - Mort (probably)</em>
+</p>
+
+<p align="center">
   <img src="https://raw.githubusercontent.com/mayhemantt/mayhemantt/master/assets/github-contribution-grid-snake.svg" alt="Snake animation" />
 </p>
+
 
