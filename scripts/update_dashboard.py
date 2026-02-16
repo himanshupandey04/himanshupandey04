@@ -12,7 +12,8 @@ def get_projects():
     project_metadata = {
         "real-time-doc-validator-instant-e-challan-relay": "Auto-Traffic Enforcement System using Computer Vision & Flask.",
         "blood-donation-management": "Full-stack MongoDB Inventory System for real-time donor tracking.",
-        "fashion-discount-prediction": "AI/ML Regression model for optimizing retail pricing strategies."
+        "fashion-discount-prediction": "AI/ML Regression model for optimizing retail pricing strategies.",
+        "parking-ticket-issuing-system-using-ocr": "Automated parking ticket solution using OCR-based license plate detection."
     }
 
     try:

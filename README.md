@@ -21,20 +21,29 @@
         <td width="35%" valign="top" align="center">
             <h3>:: OPERATOR_IDENTITY ::</h3>
             <br>
-            <img src="assets/animated_icons/mort.gif" width="200" style="border-radius: 10px; border: 2px solid #333;" />
+            <img src="https://raw.githubusercontent.com/himanshupandey04/himanshupandey04/main/assets/animated_icons/mort.gif" width="200" style="border-radius: 10px; border: 2px solid #333;" />
             <br><br>
             <p align="left">
                 <b>> NAME:</b> Himanshu Kumar Pandey<br>
                 <b>> BASE:</b> PES University, Bangalore<br>
                 <b>> MISSION:</b> AI-Driven Workflow Automation<br>
                 <b>> CURRENT_TASK:</b> Data Intelligence<br>
+                <br>
+                <b>> CERTIFICATIONS:</b><br>
+                - Google Data Analytics (Pursuing)<br>
+                - Microsoft Power BI Data Analyst (Pursuing)<br>
+                <br>
+                <b>> SOFT SKILLS:</b><br>
+                - Analytical Thinking<br>
+                - Problem Solving & Communication<br>
+                - Team Collaboration
             </p>
             <br>
             <h3>:: COMM_UPLINK ::</h3>
             <p>
-                <a href="https://linkedin.com/in/himanshupandey04"><img src="assets/icons/linkedin.svg" height="25" /></a>
+                <a href="https://linkedin.com/in/himanshupandey04"><img src="https://raw.githubusercontent.com/himanshupandey04/himanshupandey04/main/assets/icons/linkedin.svg" height="25" /></a>
                 &nbsp;&nbsp;
-                <a href="mailto:himanshupandey0410@gmail.com"><img src="assets/icons/email.svg" height="25" /></a>
+                <a href="mailto:himanshupandey0410@gmail.com"><img src="https://raw.githubusercontent.com/himanshupandey04/himanshupandey04/main/assets/icons/email.svg" height="25" /></a>
             </p>
         </td>
 
