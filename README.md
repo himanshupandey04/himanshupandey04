@@ -4,12 +4,12 @@
     ASSETS: Local Animated GIFs & Shields
 -->
 <div align="center">
-<img src="https://raw.githubusercontent.com/himanshupandey04/himanshupandey04/main/assets/animated_icons/line.gif" width="100%" />
+
 <br>
 <h1>SYSTEM ANALYSIS DASHBOARD // HIMANSHU KUMAR PANDEY</h1>
 <h3>[ ROLE: DATA ARCHITECT | STATUS: ONLINE ]</h3>
 <br>
-<img src="https://raw.githubusercontent.com/himanshupandey04/himanshupandey04/main/assets/animated_icons/line.gif" width="100%" />
+
 </div>
 <br>
 <table border="0" width="100%" cellspacing="0" cellpadding="0">
@@ -98,7 +98,7 @@
 <br>
 <div align="center">
 <br>
-<img src="https://raw.githubusercontent.com/himanshupandey04/himanshupandey04/main/assets/animated_icons/line.gif" width="100%" />
+
 <h3><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Construction.png" height="30" style="vertical-align: bottom;" /> ACTIVE_SYSTEM_MODULES</h3>
 </div>
 <!-- START_PROJECTS -->
@@ -128,7 +128,7 @@
 <!-- END_PROJECTS -->
 <br>
 <div align="center">
-<img src="https://raw.githubusercontent.com/himanshupandey04/himanshupandey04/main/assets/animated_icons/line.gif" width="100%" />
+
 <br>
 <code> END_OF_TRANSMISSION // HIMANSHU_PANDEY </code>
 </div>
