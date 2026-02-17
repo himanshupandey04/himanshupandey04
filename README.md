@@ -138,185 +138,94 @@
 
 <div align="center">
 
-<div style="margin-bottom: 35px; width: 100%; max-width: 850px;">
-  <table width="100%" style="border-collapse: separate; border-spacing: 0; background-color: #0d1117; border: 1px solid #30363d; border-bottom: 5px solid #1f6feb; border-radius: 15px; overflow: hidden; box-shadow: 0 10px 30px rgba(0,0,0,0.5);">
-    <tr style="background: linear-gradient(90deg, #161b22 0%, #0d1117 100%);">
-      <td style="padding: 20px; border-bottom: 1px solid #21262d;">
-        <table width="100%" style="border-collapse: collapse;">
-          <tr>
-            <td align="left">
-               <h3 style="margin: 0; color: #ffffff; font-size: 20px; font-family: -apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif;">
-                 <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Package.png" height="28" style="vertical-align: middle;" />
-                 &nbsp;Real-Time-Doc-Validator-Instant-E-Challan-Relay
-               </h3>
-            </td>
-            <td align="right">
-               <img src="https://img.shields.io/badge/CORE-MODULE-8957e5?style=flat-square" height="20" />
-            </td>
-          </tr>
-        </table>
-      </td>
-    </tr>
-    <tr>
-      <td style="padding: 25px;">
-        <p style="color: #c9d1d9; font-size: 15px; margin: 0 0 20px 0; line-height: 1.7; text-align: left; font-family: -apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif;">
-          Auto-Traffic Enforcement System using Computer Vision & Flask.
-        </p>
-        <div align="left" style="margin-bottom: 25px;">
-          <img src="https://img.shields.io/badge/Python-80.0%25-3776AB?style=flat-square" /> <img src="https://img.shields.io/badge/HTML-15.0%25-E34F26?style=flat-square" /> <img src="https://img.shields.io/badge/CSS-5.0%25-1572B6?style=flat-square" /> 
-        </div>
-        <table width="100%" style="border-collapse: collapse;">
-          <tr>
-            <td align="left">
-              <img src="https://img.shields.io/badge/INTELLIGENCE-ACTIVE-238636?style=for-the-badge&logo=probot&logoColor=white" height="25" />
-            </td>
-            <td align="right">
-              <a href="https://github.com/himanshupandey04/Real-Time-Doc-Validator-Instant-E-Challan-Relay">
-                <img src="https://img.shields.io/badge/SYSTEM_ACCESS-1f6feb?style=for-the-badge&logo=github&logoColor=white" height="35" />
-              </a>
-            </td>
-          </tr>
-        </table>
-      </td>
-    </tr>
-  </table>
-</div>
+<table width="100%" style="border-collapse: collapse; background-color: #0d1117; border: 1px solid #30363d; border-radius: 12px; margin-bottom: 24px; overflow: hidden;">
+  <tr>
+    <td style="padding: 24px;">
+      <table width="100%" style="border-collapse: collapse;">
+        <tr>
+          <td valign="top" align="left">
+            <h3 style="margin: 0; color: #e6edf3; font-family: -apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif; font-size: 18px;">
+              <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Gear.png" height="22" style="vertical-align: middle;" />
+              &nbsp;Blood-Donation-Management
+            </h3>
+            <p style="color: #8b949e; font-size: 14px; margin: 12px 0 20px 0; line-height: 1.6; max-width: 600px; text-align: left;">
+              Full-stack MongoDB Inventory System for real-time donor tracking.
+            </p>
+            <div align="left" style="margin-bottom: 5px;"><img src="https://img.shields.io/badge/HTML-84.5%25-E34F26?style=flat-square" /> <img src="https://img.shields.io/badge/Python-12.2%25-3776AB?style=flat-square" /> <img src="https://img.shields.io/badge/CSS-2.2%25-1572B6?style=flat-square" /> <img src="https://img.shields.io/badge/JavaScript-1.1%25-F7DF1E?style=flat-square" /> </div>
+          </td>
+          <td width="160" align="right" valign="top">
+            <a href="https://github.com/himanshupandey04/Blood-Donation-Management">
+              <img src="https://img.shields.io/badge/CORE_INITIALIZE-1f6feb?style=for-the-badge&logo=github&logoColor=white" height="30" />
+            </a>
+            <br><br>
+            <img src="https://img.shields.io/badge/STATUS-ACTIVE-238636?style=flat-square" height="18" />
+          </td>
+        </tr>
+      </table>
+    </td>
+  </tr>
+</table>
 
-<div style="margin-bottom: 35px; width: 100%; max-width: 850px;">
-  <table width="100%" style="border-collapse: separate; border-spacing: 0; background-color: #0d1117; border: 1px solid #30363d; border-bottom: 5px solid #1f6feb; border-radius: 15px; overflow: hidden; box-shadow: 0 10px 30px rgba(0,0,0,0.5);">
-    <tr style="background: linear-gradient(90deg, #161b22 0%, #0d1117 100%);">
-      <td style="padding: 20px; border-bottom: 1px solid #21262d;">
-        <table width="100%" style="border-collapse: collapse;">
-          <tr>
-            <td align="left">
-               <h3 style="margin: 0; color: #ffffff; font-size: 20px; font-family: -apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif;">
-                 <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Package.png" height="28" style="vertical-align: middle;" />
-                 &nbsp;Blood-Donation-Management
-               </h3>
-            </td>
-            <td align="right">
-               <img src="https://img.shields.io/badge/CORE-MODULE-8957e5?style=flat-square" height="20" />
-            </td>
-          </tr>
-        </table>
-      </td>
-    </tr>
-    <tr>
-      <td style="padding: 25px;">
-        <p style="color: #c9d1d9; font-size: 15px; margin: 0 0 20px 0; line-height: 1.7; text-align: left; font-family: -apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif;">
-          Full-stack MongoDB Inventory System for real-time donor tracking.
-        </p>
-        <div align="left" style="margin-bottom: 25px;">
-          <img src="https://img.shields.io/badge/HTML-80.0%25-E34F26?style=flat-square" /> <img src="https://img.shields.io/badge/JavaScript-15.0%25-F7DF1E?style=flat-square" /> <img src="https://img.shields.io/badge/CSS-5.0%25-1572B6?style=flat-square" /> 
-        </div>
-        <table width="100%" style="border-collapse: collapse;">
-          <tr>
-            <td align="left">
-              <img src="https://img.shields.io/badge/INTELLIGENCE-ACTIVE-238636?style=for-the-badge&logo=probot&logoColor=white" height="25" />
-            </td>
-            <td align="right">
-              <a href="https://github.com/himanshupandey04/Blood-Donation-Management">
-                <img src="https://img.shields.io/badge/SYSTEM_ACCESS-1f6feb?style=for-the-badge&logo=github&logoColor=white" height="35" />
-              </a>
-            </td>
-          </tr>
-        </table>
-      </td>
-    </tr>
-  </table>
-</div>
+<table width="100%" style="border-collapse: collapse; background-color: #0d1117; border: 1px solid #30363d; border-radius: 12px; margin-bottom: 24px; overflow: hidden;">
+  <tr>
+    <td style="padding: 24px;">
+      <table width="100%" style="border-collapse: collapse;">
+        <tr>
+          <td valign="top" align="left">
+            <h3 style="margin: 0; color: #e6edf3; font-family: -apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif; font-size: 18px;">
+              <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Gear.png" height="22" style="vertical-align: middle;" />
+              &nbsp;Real-Time-Doc-Validator-Instant-E-Challan-Relay
+            </h3>
+            <p style="color: #8b949e; font-size: 14px; margin: 12px 0 20px 0; line-height: 1.6; max-width: 600px; text-align: left;">
+              Auto-Traffic Enforcement System using Computer Vision & Flask.
+            </p>
+            <div align="left" style="margin-bottom: 5px;"><img src="https://img.shields.io/badge/JavaScript-70.7%25-F7DF1E?style=flat-square" /> <img src="https://img.shields.io/badge/HTML-15.7%25-E34F26?style=flat-square" /> <img src="https://img.shields.io/badge/Python-7.6%25-3776AB?style=flat-square" /> <img src="https://img.shields.io/badge/CSS-5.7%25-1572B6?style=flat-square" /> </div>
+          </td>
+          <td width="160" align="right" valign="top">
+            <a href="https://github.com/himanshupandey04/Real-Time-Doc-Validator-Instant-E-Challan-Relay">
+              <img src="https://img.shields.io/badge/CORE_INITIALIZE-1f6feb?style=for-the-badge&logo=github&logoColor=white" height="30" />
+            </a>
+            <br><br>
+            <img src="https://img.shields.io/badge/STATUS-ACTIVE-238636?style=flat-square" height="18" />
+          </td>
+        </tr>
+      </table>
+    </td>
+  </tr>
+</table>
 
-<div style="margin-bottom: 35px; width: 100%; max-width: 850px;">
-  <table width="100%" style="border-collapse: separate; border-spacing: 0; background-color: #0d1117; border: 1px solid #30363d; border-bottom: 5px solid #1f6feb; border-radius: 15px; overflow: hidden; box-shadow: 0 10px 30px rgba(0,0,0,0.5);">
-    <tr style="background: linear-gradient(90deg, #161b22 0%, #0d1117 100%);">
-      <td style="padding: 20px; border-bottom: 1px solid #21262d;">
-        <table width="100%" style="border-collapse: collapse;">
-          <tr>
-            <td align="left">
-               <h3 style="margin: 0; color: #ffffff; font-size: 20px; font-family: -apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif;">
-                 <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Package.png" height="28" style="vertical-align: middle;" />
-                 &nbsp;Fashion-Discount-Prediction
-               </h3>
-            </td>
-            <td align="right">
-               <img src="https://img.shields.io/badge/CORE-MODULE-8957e5?style=flat-square" height="20" />
-            </td>
-          </tr>
-        </table>
-      </td>
-    </tr>
-    <tr>
-      <td style="padding: 25px;">
-        <p style="color: #c9d1d9; font-size: 15px; margin: 0 0 20px 0; line-height: 1.7; text-align: left; font-family: -apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif;">
-          AI/ML Regression model for optimizing retail pricing strategies.
-        </p>
-        <div align="left" style="margin-bottom: 25px;">
-          <img src="https://img.shields.io/badge/Jupyter Notebook-100.0%25-F37626?style=flat-square" /> 
-        </div>
-        <table width="100%" style="border-collapse: collapse;">
-          <tr>
-            <td align="left">
-              <img src="https://img.shields.io/badge/INTELLIGENCE-ACTIVE-238636?style=for-the-badge&logo=probot&logoColor=white" height="25" />
-            </td>
-            <td align="right">
-              <a href="https://github.com/himanshupandey04/Fashion-Discount-Prediction">
-                <img src="https://img.shields.io/badge/SYSTEM_ACCESS-1f6feb?style=for-the-badge&logo=github&logoColor=white" height="35" />
-              </a>
-            </td>
-          </tr>
-        </table>
-      </td>
-    </tr>
-  </table>
-</div>
-
-<div style="margin-bottom: 35px; width: 100%; max-width: 850px;">
-  <table width="100%" style="border-collapse: separate; border-spacing: 0; background-color: #0d1117; border: 1px solid #30363d; border-bottom: 5px solid #1f6feb; border-radius: 15px; overflow: hidden; box-shadow: 0 10px 30px rgba(0,0,0,0.5);">
-    <tr style="background: linear-gradient(90deg, #161b22 0%, #0d1117 100%);">
-      <td style="padding: 20px; border-bottom: 1px solid #21262d;">
-        <table width="100%" style="border-collapse: collapse;">
-          <tr>
-            <td align="left">
-               <h3 style="margin: 0; color: #ffffff; font-size: 20px; font-family: -apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif;">
-                 <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Package.png" height="28" style="vertical-align: middle;" />
-                 &nbsp;Parking-Ticket-Issuing-System-using-OCR
-               </h3>
-            </td>
-            <td align="right">
-               <img src="https://img.shields.io/badge/CORE-MODULE-8957e5?style=flat-square" height="20" />
-            </td>
-          </tr>
-        </table>
-      </td>
-    </tr>
-    <tr>
-      <td style="padding: 25px;">
-        <p style="color: #c9d1d9; font-size: 15px; margin: 0 0 20px 0; line-height: 1.7; text-align: left; font-family: -apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif;">
-          Automated parking ticket solution using OCR-based license plate detection.
-        </p>
-        <div align="left" style="margin-bottom: 25px;">
-          <img src="https://img.shields.io/badge/Python-90.0%25-3776AB?style=flat-square" /> <img src="https://img.shields.io/badge/C++-10.0%25-00599C?style=flat-square" /> 
-        </div>
-        <table width="100%" style="border-collapse: collapse;">
-          <tr>
-            <td align="left">
-              <img src="https://img.shields.io/badge/INTELLIGENCE-ACTIVE-238636?style=for-the-badge&logo=probot&logoColor=white" height="25" />
-            </td>
-            <td align="right">
-              <a href="https://github.com/himanshupandey04/Parking-Ticket-Issuing-System-using-OCR">
-                <img src="https://img.shields.io/badge/SYSTEM_ACCESS-1f6feb?style=for-the-badge&logo=github&logoColor=white" height="35" />
-              </a>
-            </td>
-          </tr>
-        </table>
-      </td>
-    </tr>
-  </table>
-</div>
+<table width="100%" style="border-collapse: collapse; background-color: #0d1117; border: 1px solid #30363d; border-radius: 12px; margin-bottom: 24px; overflow: hidden;">
+  <tr>
+    <td style="padding: 24px;">
+      <table width="100%" style="border-collapse: collapse;">
+        <tr>
+          <td valign="top" align="left">
+            <h3 style="margin: 0; color: #e6edf3; font-family: -apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif; font-size: 18px;">
+              <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Gear.png" height="22" style="vertical-align: middle;" />
+              &nbsp;Fashion-Discount-Prediction
+            </h3>
+            <p style="color: #8b949e; font-size: 14px; margin: 12px 0 20px 0; line-height: 1.6; max-width: 600px; text-align: left;">
+              AI/ML Regression model for optimizing retail pricing strategies.
+            </p>
+            <div align="left" style="margin-bottom: 5px;"><img src="https://img.shields.io/badge/Jupyter Notebook-99.7%25-F37626?style=flat-square" /> </div>
+          </td>
+          <td width="160" align="right" valign="top">
+            <a href="https://github.com/himanshupandey04/Fashion-Discount-Prediction">
+              <img src="https://img.shields.io/badge/CORE_INITIALIZE-1f6feb?style=for-the-badge&logo=github&logoColor=white" height="30" />
+            </a>
+            <br><br>
+            <img src="https://img.shields.io/badge/STATUS-ACTIVE-238636?style=flat-square" height="18" />
+          </td>
+        </tr>
+      </table>
+    </td>
+  </tr>
+</table>
 </div>
 <!-- END_PROJECTS -->
 
 <br>
  
-    
+   
+ 
  
