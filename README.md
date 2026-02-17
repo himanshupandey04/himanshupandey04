@@ -101,28 +101,29 @@
 <br>
 <hr>
 
-### 📊 Advanced GitHub Analytics & Activity
+### 📊 Statistics & Activity Command Center
 
 <div align="center">
-  <!-- Detailed Metrics (Isometric Calendar, Habits, Achievements) -->
-  <a href="https://github.com/himanshupandey04/himanshupandey04/blob/main/github-metrics.svg">
-    <img src="https://raw.githubusercontent.com/himanshupandey04/himanshupandey04/main/github-metrics.svg" width="100%" alt="GitHub Metrics" />
+  <!-- General Stats & Top Languages -->
+  <a href="https://github.com/himanshupandey04">
+    <img src="https://github-readme-stats.vercel.app/api?username=himanshupandey04&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="185" alt="Stats" />
+  </a>
+  <a href="https://github.com/himanshupandey04">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=himanshupandey04&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" height="185" alt="Langs" />
+  </a>
+  
+  <br>
+
+  <!-- Contribution Streak -->
+  <a href="https://github.com/himanshupandey04">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=himanshupandey04&theme=tokyonight&hide_border=true" height="185" alt="Streaks" />
   </a>
   
   <br><br>
 
-  <!-- Profile Summary Cards (Stats & Languages) -->
+  <!-- Modern Activity Line Graph (Animated) -->
   <a href="https://github.com/himanshupandey04">
-    <img src="https://raw.githubusercontent.com/himanshupandey04/himanshupandey04/main/profile-summary-card-output/tokyonight/0-profile-details.svg" width="100%" alt="Profile Details" />
-  </a>
-  
-  <br>
-  
-  <a href="https://github.com/himanshupandey04?tab=repositories">
-    <img src="https://raw.githubusercontent.com/himanshupandey04/himanshupandey04/main/profile-summary-card-output/tokyonight/2-most-commit-language.svg" width="48%" alt="Languages" />
-  </a>
-  <a href="https://github.com/himanshupandey04">
-    <img src="https://raw.githubusercontent.com/himanshupandey04/himanshupandey04/main/profile-summary-card-output/tokyonight/3-stats.svg" width="48%" alt="Stats" />
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=himanshupandey04&theme=tokyo-night&bg_color=0D1117&hide_border=true&area=true" width="100%" alt="Activity Graph" />
   </a>
 </div>
 
@@ -130,7 +131,7 @@
 <hr>
 
 <div align="center">
-<h3>🚧 ACTIVE SYSTEM MODULES</h3>
+  <h2>🚀 SYSTEM CORE MODULES</h2>
 </div>
 
 <!-- START_PROJECTS -->
@@ -274,5 +275,6 @@
 
 <br>
 <br>
-#   R e f r e s h   c o m m i t  
+#   R e f r e s h   c o m m i t 
+ 
  
