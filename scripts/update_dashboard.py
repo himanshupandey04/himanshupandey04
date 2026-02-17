@@ -124,14 +124,15 @@ def generate_language_bar(languages):
     return bar_html
 
 def generate_markdown(projects):
-    html_output = '<div align="center">\n'
+    html_output = "" # No wrapping div to prevent overflow constraints
     
     for p in projects:
         name = p['name']
         url = p['html_url']
         desc = p['description'] if p['description'] else "System module active."
-        if len(desc) > 150:
-            desc = desc[:147] + "..."
+        # descriptions can be robust in vertical layout
+        if len(desc) > 180:
+            desc = desc[:177] + "..."
             
         langs = get_repo_languages(name)
         if not langs and 'languages_cache' in p:
@@ -139,35 +140,32 @@ def generate_markdown(projects):
              
         lang_bar = generate_language_bar(langs)
         
-        # Professional Vertical System Module
+        # Hyper-Clean Professional Module (Ensures 100% visibility, no scrolling)
         html_output += f'''
-<table width="100%" style="border-collapse: collapse; background-color: #0d1117; border: 1px solid #30363d; border-radius: 8px; margin-bottom: 16px; overflow: hidden;">
+<table width="100%" style="border-collapse: collapse; background-color: #0d1117; border: 1px solid #30363d; margin-bottom: 24px;">
   <tr style="background-color: #161b22; border-bottom: 1px solid #30363d;">
     <td style="padding: 12px 20px;">
-      <h3 style="margin: 0; color: #e6edf3; font-family: -apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif; font-size: 16px;">
-        <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Package.png" height="20" style="vertical-align: middle;" />
-        &nbsp;{name}
-      </h3>
-    </td>
-    <td align="right" style="padding: 12px 20px;">
-      <img src="https://img.shields.io/badge/Status-ACTIVE-238636?style=flat-square" height="20" />
+      <a href="{url}" style="text-decoration: none;">
+        <h3 style="margin: 0; color: #e6edf3; font-family: -apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif; font-size: 16px;">
+          <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Gear.png" height="20" style="vertical-align: middle;" />
+          &nbsp;{name}
+        </h3>
+      </a>
     </td>
   </tr>
   <tr>
-    <td colspan="2" style="padding: 20px;">
+    <td style="padding: 20px;">
+      <p style="color: #8b949e; font-size: 14px; margin: 0 0 18px 0; line-height: 1.6; font-family: -apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif;">
+        {desc}
+      </p>
       <table width="100%" style="border-collapse: collapse;">
         <tr>
-          <td valign="top" align="left">
-            <p style="color: #8b949e; font-size: 14px; margin: 0 0 15px 0; line-height: 1.6; font-family: -apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif;">
-              {desc}
-            </p>
-            <div style="margin-bottom: 5px;">
-              {lang_bar}
-            </div>
+          <td align="left" valign="middle">
+            {lang_bar}
           </td>
-          <td width="160" align="right" valign="bottom">
+          <td align="right" valign="middle">
             <a href="{url}">
-              <img src="https://img.shields.io/badge/MODULE_ACCESS-1f6feb?style=for-the-badge&logo=github&logoColor=white" height="32" />
+              <img src="https://img.shields.io/badge/MODULE_ACCESS-1f6feb?style=for-the-badge&logo=github&logoColor=white" height="28" />
             </a>
           </td>
         </tr>
@@ -177,7 +175,6 @@ def generate_markdown(projects):
 </table>
 '''
         
-    html_output += '</div>'
     return html_output
 
 def update_readme():
