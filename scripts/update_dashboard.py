@@ -137,22 +137,51 @@ def generate_markdown(projects):
              
         lang_bar = generate_language_bar(langs)
         
-        # Centered Hero Layout (Mirroring the requested minimalist style)
+        # 3D Depth Card Design (Modern Gradient & Raised Effect)
         html_output += f'''
-<br>
-<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Gear.png" height="70" />
-<h2 style="margin: 10px 0; color: #e6edf3; font-family: -apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif;">{name}</h2>
-<p style="color: #8b949e; font-size: 15px; max-width: 550px; line-height: 1.6; font-family: -apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif;">
-  {desc}
-</p>
-<div style="margin: 15px 0;">
-  {lang_bar}
+<div style="margin-bottom: 35px; width: 100%; max-width: 850px;">
+  <table width="100%" style="border-collapse: separate; border-spacing: 0; background-color: #0d1117; border: 1px solid #30363d; border-bottom: 5px solid #1f6feb; border-radius: 15px; overflow: hidden; box-shadow: 0 10px 30px rgba(0,0,0,0.5);">
+    <tr style="background: linear-gradient(90deg, #161b22 0%, #0d1117 100%);">
+      <td style="padding: 20px; border-bottom: 1px solid #21262d;">
+        <table width="100%" style="border-collapse: collapse;">
+          <tr>
+            <td align="left">
+               <h3 style="margin: 0; color: #ffffff; font-size: 20px; font-family: -apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif;">
+                 <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Package.png" height="28" style="vertical-align: middle;" />
+                 &nbsp;{name}
+               </h3>
+            </td>
+            <td align="right">
+               <img src="https://img.shields.io/badge/CORE-MODULE-8957e5?style=flat-square" height="20" />
+            </td>
+          </tr>
+        </table>
+      </td>
+    </tr>
+    <tr>
+      <td style="padding: 25px;">
+        <p style="color: #c9d1d9; font-size: 15px; margin: 0 0 20px 0; line-height: 1.7; text-align: left; font-family: -apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif;">
+          {desc}
+        </p>
+        <div align="left" style="margin-bottom: 25px;">
+          {lang_bar}
+        </div>
+        <table width="100%" style="border-collapse: collapse;">
+          <tr>
+            <td align="left">
+              <img src="https://img.shields.io/badge/INTELLIGENCE-ACTIVE-238636?style=for-the-badge&logo=probot&logoColor=white" height="25" />
+            </td>
+            <td align="right">
+              <a href="{url}">
+                <img src="https://img.shields.io/badge/SYSTEM_ACCESS-1f6feb?style=for-the-badge&logo=github&logoColor=white" height="35" />
+              </a>
+            </td>
+          </tr>
+        </table>
+      </td>
+    </tr>
+  </table>
 </div>
-<a href="{url}">
-  <img src="https://img.shields.io/badge/MODULE_ACCESS-1f6feb?style=for-the-badge&logo=github&logoColor=white" height="32" />
-</a>
-<br><br>
-<hr style="width: 50%; opacity: 0.1; border: 1px solid #30363d;">
 '''
         
     html_output += '</div>'
