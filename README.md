@@ -20,29 +20,27 @@
 
 ---
 
-### 🧭 What I Build
+### 👨‍💻 About Me
 
-I'm a developer focused on the gap between **institutional problems** and **working software** — where manual, paper-based, or inconsistently-enforced systems can be replaced by open, automated, and community-maintained tools.
+I'm Himanshu — a developer from Bangalore who gets genuinely annoyed when things that could be automated aren't.
 
-My work spans Computer Vision, full-stack web systems, and ML pipelines. All of it is MIT-licensed and designed to be picked up by others.
+Most of what I build starts with a real frustration: traffic challans being handwritten while vehicles drive past unchecked, blood banks with no idea of donor availability, retail teams manually guessing discounts. I pick one of those problems, build something that actually works, and open-source it so it doesn't die on my hard drive.
 
-| What | Why |
-|---|---|
-| 🚦 **Traffic Enforcement AI** | Manual challan issuing is unscalable and inconsistent |
-| 🩸 **Blood Donation Management** | Donor availability runs on phone calls and paper ledgers |
-| 🤖 **Retail ML Optimization** | Pricing teams leave revenue on the table without prediction models |
+Right now I'm deep into **ECR** — a traffic enforcement system that reads number plates from video, checks vehicle documents, and sends challans automatically. It runs three services (React + Node.js + Flask/YOLO) and is the most complex thing I've shipped so far.
+
+- 🚦 **ECR** — ANPR + automated e-challan + citizen portal
+- 🩸 **Blood Donation Management** — real-time donor tracking for blood banks
+- 🤖 **Fashion Discount Prediction** — ML model for smarter retail pricing
 
 ---
 
-### 🔧 Current Focus
+### 🔧 What I'm working on
 
-```
-🔭 Maintaining:  ECR — E-Challan Relay (YOLOv8 + React + Node.js + Flask)
-🌱 Learning:     MLOps, AWS deployment, RTSP stream processing
-🤝 Open to:      Contributions, civic-tech collaborations, and ML research partnerships
-💬 Ask me about: ANPR systems, Flask/Node microservices, or open-source project structure
-📍 Location:     Bangalore, India  |  🎓 PES University
-```
+- 🔭 Actively maintaining **ECR** — next up is deploying to AWS and adding RTSP live camera feed support
+- 🌱 Learning MLOps and cloud infra (slowly, but getting there)
+- 🤝 Open to collabs on civic-tech, AI/ML, or anything that solves a problem people actually have
+- 💬 Ask me about ANPR, building Flask + Node microservices, or structuring open-source projects
+- 📍 Bangalore, India &nbsp;|&nbsp; 🎓 PES University &nbsp;|&nbsp; [![LinkedIn](https://img.shields.io/badge/Connect-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/himanshupandey04)
 
 ---
 
@@ -209,7 +207,7 @@ My work spans Computer Vision, full-stack web systems, and ML pipelines. All of 
 ---
 
 <div align="center">
-<sub>Open source because problems worth solving shouldn't stay locked in one repo.</sub>
+<sub>If something I built is useful to you, feel free to open an issue, fork it, or just say hi.</sub>
 <br/><br/>
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer" width="100%"/>
 </div>
