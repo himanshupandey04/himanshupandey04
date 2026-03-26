@@ -13,6 +13,7 @@
 <br/>
 
 [![GitHub followers](https://img.shields.io/github/followers/himanshupandey04?label=Followers&style=social)](https://github.com/himanshupandey04)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-himanshupandey04-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/himanshupandey04)
 [![Profile Views](https://komarev.com/ghpvc/?username=himanshupandey04&color=58A6FF&style=flat)](https://github.com/himanshupandey04)
 
 </div>
