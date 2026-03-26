@@ -63,11 +63,18 @@ My work spans Computer Vision, full-stack web systems, and ML pipelines. All of 
 <a href="https://skillicons.dev">
 <img src="https://skillicons.dev/icons?i=tensorflow,pytorch,opencv&theme=dark" />
 </a>
-&nbsp;&nbsp;
-<img src="https://img.shields.io/badge/YOLOv8-Ultralytics-FF4A17?style=flat-square&logo=opencv&logoColor=white" height="28"/>
-<img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white" height="28"/>
-<img src="https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white" height="28"/>
-<img src="https://img.shields.io/badge/Power_BI-F2C811?style=flat-square&logo=powerbi&logoColor=black" height="28"/>
+
+<br/>
+
+<img src="https://img.shields.io/badge/YOLOv8-FF4A17?style=flat&logo=opencv&logoColor=white" height="24"/>
+&nbsp;
+<img src="https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white" height="24"/>
+&nbsp;
+<img src="https://img.shields.io/badge/Jupyter-F37626?style=flat&logo=jupyter&logoColor=white" height="24"/>
+&nbsp;
+<img src="https://img.shields.io/badge/scikit--learn-F7931E?style=flat&logo=scikitlearn&logoColor=white" height="24"/>
+&nbsp;
+<img src="https://img.shields.io/badge/Power_BI-F2C811?style=flat&logo=powerbi&logoColor=black" height="24"/>
 
 <br/><br/>
 
