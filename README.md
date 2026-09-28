@@ -107,26 +107,55 @@ I'm interested in **open-source civic tech**, MLOps, and building things that wo
 
 <div align="center">
 
-<table width="100%" style="border-collapse: collapse; background-color: #0d1117; border: 1px solid #30363d; border-radius: 12px; margin-bottom: 20px; overflow: hidden;">
+<table width="100%" style="border-collapse: collapse; background-color: #0d1117; border: 1px solid #30363d; border-radius: 12px; margin-bottom: 24px; overflow: hidden;">
   <tr>
-    <td style="padding: 22px;">
+    <td style="padding: 24px;">
       <table width="100%" style="border-collapse: collapse;">
         <tr>
           <td valign="top" align="left">
-            <h3 style="margin: 0; color: #e6edf3; font-family: -apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif; font-size: 17px; font-weight: 600;">
-              ECR — Real-Time Document Validator & E-Challan Relay
+            <h3 style="margin: 0; color: #e6edf3; font-family: -apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif; font-size: 18px;">
+              <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Gear.png" height="22" style="vertical-align: middle;" />
+              &nbsp;my-portfolio
             </h3>
-            <p style="color: #8b949e; font-size: 13px; margin: 10px 0 16px 0; line-height: 1.6; max-width: 580px;">
-              Three-service traffic enforcement platform: YOLOv8 ANPR reads license plates from video feeds, validates RC/Insurance/PUC/Fitness against a vehicle dataset, and dispatches PDF challans via SMTP. Includes a React citizen portal for violation lookup and payment, and a Node.js/Express backend with JWT auth.
+            <p style="color: #8b949e; font-size: 14px; margin: 12px 0 20px 0; line-height: 1.6; max-width: 600px; text-align: left;">
+              —
             </p>
-            <div align="left"><img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black" /> <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white" /> <img src="https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white" /> <img src="https://img.shields.io/badge/YOLOv8-FF4A17?style=flat-square&logo=opencv&logoColor=white" /> <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white" /></div>
+            <div align="left" style="margin-bottom: 5px;"><img src="https://img.shields.io/badge/HTML-100.0%25-E34F26?style=flat-square" /> </div>
           </td>
-          <td width="150" align="right" valign="top">
+          <td width="160" align="right" valign="top">
+            <a href="https://github.com/himanshupandey04/my-portfolio">
+              <img src="https://img.shields.io/badge/CORE_INITIALIZE-1f6feb?style=for-the-badge&logo=github&logoColor=white" height="30" />
+            </a>
+            <br><br>
+            <img src="https://img.shields.io/badge/STATUS-ACTIVE-238636?style=flat-square" height="18" />
+          </td>
+        </tr>
+      </table>
+    </td>
+  </tr>
+</table>
+
+<table width="100%" style="border-collapse: collapse; background-color: #0d1117; border: 1px solid #30363d; border-radius: 12px; margin-bottom: 24px; overflow: hidden;">
+  <tr>
+    <td style="padding: 24px;">
+      <table width="100%" style="border-collapse: collapse;">
+        <tr>
+          <td valign="top" align="left">
+            <h3 style="margin: 0; color: #e6edf3; font-family: -apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif; font-size: 18px;">
+              <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Gear.png" height="22" style="vertical-align: middle;" />
+              &nbsp;Real-Time-Doc-Validator-Instant-E-Challan-Relay
+            </h3>
+            <p style="color: #8b949e; font-size: 14px; margin: 12px 0 20px 0; line-height: 1.6; max-width: 600px; text-align: left;">
+              Auto-Traffic Enforcement System using Computer Vision & Flask.
+            </p>
+            <div align="left" style="margin-bottom: 5px;"><img src="https://img.shields.io/badge/JavaScript-70.7%25-F7DF1E?style=flat-square" /> <img src="https://img.shields.io/badge/HTML-15.7%25-E34F26?style=flat-square" /> <img src="https://img.shields.io/badge/Python-7.6%25-3776AB?style=flat-square" /> <img src="https://img.shields.io/badge/CSS-5.7%25-1572B6?style=flat-square" /> </div>
+          </td>
+          <td width="160" align="right" valign="top">
             <a href="https://github.com/himanshupandey04/Real-Time-Doc-Validator-Instant-E-Challan-Relay">
-              <img src="https://img.shields.io/badge/View_Repo-1f6feb?style=for-the-badge&logo=github&logoColor=white" height="28" />
+              <img src="https://img.shields.io/badge/CORE_INITIALIZE-1f6feb?style=for-the-badge&logo=github&logoColor=white" height="30" />
             </a>
-            <br/><br/>
-            <img src="https://img.shields.io/badge/MIT_License-238636?style=flat-square" height="16" />
+            <br><br>
+            <img src="https://img.shields.io/badge/STATUS-ACTIVE-238636?style=flat-square" height="18" />
           </td>
         </tr>
       </table>
@@ -134,26 +163,27 @@ I'm interested in **open-source civic tech**, MLOps, and building things that wo
   </tr>
 </table>
 
-<table width="100%" style="border-collapse: collapse; background-color: #0d1117; border: 1px solid #30363d; border-radius: 12px; margin-bottom: 20px; overflow: hidden;">
+<table width="100%" style="border-collapse: collapse; background-color: #0d1117; border: 1px solid #30363d; border-radius: 12px; margin-bottom: 24px; overflow: hidden;">
   <tr>
-    <td style="padding: 22px;">
+    <td style="padding: 24px;">
       <table width="100%" style="border-collapse: collapse;">
         <tr>
           <td valign="top" align="left">
-            <h3 style="margin: 0; color: #e6edf3; font-family: -apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif; font-size: 17px; font-weight: 600;">
-              Blood Donation Management System
+            <h3 style="margin: 0; color: #e6edf3; font-family: -apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif; font-size: 18px;">
+              <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Gear.png" height="22" style="vertical-align: middle;" />
+              &nbsp;Blood-Donation-Management
             </h3>
-            <p style="color: #8b949e; font-size: 13px; margin: 10px 0 16px 0; line-height: 1.6; max-width: 580px;">
-              Flask + MongoDB web application for blood banks — replaces manual ledger-based donor tracking with real-time availability monitoring, urgent request management, admin dashboards, and a donor registration portal with bcrypt authentication.
+            <p style="color: #8b949e; font-size: 14px; margin: 12px 0 20px 0; line-height: 1.6; max-width: 600px; text-align: left;">
+              Full-stack MongoDB Inventory System for real-time donor tracking.
             </p>
-            <div align="left"><img src="https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white" /> <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white" /> <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" /> <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=flat-square&logo=bootstrap&logoColor=white" /></div>
+            <div align="left" style="margin-bottom: 5px;"><img src="https://img.shields.io/badge/HTML-84.5%25-E34F26?style=flat-square" /> <img src="https://img.shields.io/badge/Python-12.2%25-3776AB?style=flat-square" /> <img src="https://img.shields.io/badge/CSS-2.2%25-1572B6?style=flat-square" /> <img src="https://img.shields.io/badge/JavaScript-1.1%25-F7DF1E?style=flat-square" /> </div>
           </td>
-          <td width="150" align="right" valign="top">
+          <td width="160" align="right" valign="top">
             <a href="https://github.com/himanshupandey04/Blood-Donation-Management">
-              <img src="https://img.shields.io/badge/View_Repo-1f6feb?style=for-the-badge&logo=github&logoColor=white" height="28" />
+              <img src="https://img.shields.io/badge/CORE_INITIALIZE-1f6feb?style=for-the-badge&logo=github&logoColor=white" height="30" />
             </a>
-            <br/><br/>
-            <img src="https://img.shields.io/badge/MIT_License-238636?style=flat-square" height="16" />
+            <br><br>
+            <img src="https://img.shields.io/badge/STATUS-ACTIVE-238636?style=flat-square" height="18" />
           </td>
         </tr>
       </table>
@@ -161,33 +191,33 @@ I'm interested in **open-source civic tech**, MLOps, and building things that wo
   </tr>
 </table>
 
-<table width="100%" style="border-collapse: collapse; background-color: #0d1117; border: 1px solid #30363d; border-radius: 12px; margin-bottom: 20px; overflow: hidden;">
+<table width="100%" style="border-collapse: collapse; background-color: #0d1117; border: 1px solid #30363d; border-radius: 12px; margin-bottom: 24px; overflow: hidden;">
   <tr>
-    <td style="padding: 22px;">
+    <td style="padding: 24px;">
       <table width="100%" style="border-collapse: collapse;">
         <tr>
           <td valign="top" align="left">
-            <h3 style="margin: 0; color: #e6edf3; font-family: -apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif; font-size: 17px; font-weight: 600;">
-              Fashion Discount Prediction
+            <h3 style="margin: 0; color: #e6edf3; font-family: -apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif; font-size: 18px;">
+              <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Gear.png" height="22" style="vertical-align: middle;" />
+              &nbsp;Fashion-Discount-Prediction
             </h3>
-            <p style="color: #8b949e; font-size: 13px; margin: 10px 0 16px 0; line-height: 1.6; max-width: 580px;">
-              ML regression pipeline (Random Forest + Linear Regression) that predicts optimal discount percentages for fashion retail products based on stock levels, ratings, and historical pricing. Deployed via a Flask web interface for real-time discount suggestions.
+            <p style="color: #8b949e; font-size: 14px; margin: 12px 0 20px 0; line-height: 1.6; max-width: 600px; text-align: left;">
+              AI/ML Regression model for optimizing retail pricing strategies.
             </p>
-            <div align="left"><img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" /> <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white" /> <img src="https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white" /> <img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white" /></div>
+            <div align="left" style="margin-bottom: 5px;"><img src="https://img.shields.io/badge/Jupyter Notebook-99.7%25-F37626?style=flat-square" /> </div>
           </td>
-          <td width="150" align="right" valign="top">
+          <td width="160" align="right" valign="top">
             <a href="https://github.com/himanshupandey04/Fashion-Discount-Prediction">
-              <img src="https://img.shields.io/badge/View_Repo-1f6feb?style=for-the-badge&logo=github&logoColor=white" height="28" />
+              <img src="https://img.shields.io/badge/CORE_INITIALIZE-1f6feb?style=for-the-badge&logo=github&logoColor=white" height="30" />
             </a>
-            <br/><br/>
-            <img src="https://img.shields.io/badge/MIT_License-238636?style=flat-square" height="16" />
+            <br><br>
+            <img src="https://img.shields.io/badge/STATUS-ACTIVE-238636?style=flat-square" height="18" />
           </td>
         </tr>
       </table>
     </td>
   </tr>
 </table>
-
 </div>
 <!-- END_PROJECTS -->
 
